@@ -83,7 +83,7 @@ For next time: **Schedule a meeting with Ben** for some time next week (that isn
 
 **Meet Ben in [office hours](office) some time this week.** Take notes in your [Mindful Practice Journal](projects.md).
 
-Before that meeting, ideally by this Friday, **watch**:
+To prepare for this week 02 meeting, ideally by the end of week 01, **watch**:
 * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
 
 and **read**:
