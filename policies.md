@@ -1,34 +1,50 @@
 # Policies
 
 - [Attendance](#attendance)
+- [Children in Class](#children)
 - [Inclusion and Access](#inclusion-and-access)
+    - [Disability Services](#disability-services)
 - [Title IX and Mandatory Reporting](#title-ix-and-mandatory-reporting)
-- [Avoiding Plagiarism](#avoiding-plagiarism)
+- [Academic Integrity](#academic-integrity)
+    - [Avoiding Plagiarism](#avoiding-plagiarism)
 - [On Artificial Intelligence](#on-artificial-intelligence)
 - [Feedback, Assessment, and Grades](#feedback-assessment-and-grades)
 
 ## Attendance
-This class meets only once a week, and several of those weeks include holidays that mean we will not meet as a group at all. In a small seminar such as this one, the loss of even a single member of the class can have a major impact on the work we're able to do and the insights we're able to reach. I therefore expect everyone to be present whenever class is in session.
+
+This class meets only once a week, and at least one of those weeks will fall on a holiday, when we will not meet as a group at all. In a small seminar such as this one, the loss of even a single member of the class can have a major impact on the work we're able to do and the insights we're able to reach. I therefore expect everyone to be present whenever class is in session.
 
 That said, I know life is complex, and we have a lot going on – including conferences, illnesses, families, and other legitimate claims on our time and energy. If you know in advance that you will not be able to attend, please let me know and we can try to arrange an alternative form of participation. If you must be absent unexpectedly, please try to reach out to me and your classmates as soon as you're able. It won't be the same as if you were here, but something may yet be gleaned as we try to catch you up.
 
+## Children in Class
+Along those lines, I know that sometimes childcare becomes unavailable at the last minute. Children are welcome in this class when your role as a caregiver overlaps with your role as a student. While this is not meant to be a long-term childcare solution, occasionally bringing a child to class in order to cover gaps in care is perfectly acceptable. I ask that you sit close to the door so that if your little one needs special attention and is disrupting learning for other students, you may step outside until their need has been met. Depending on the child, you may also wish to bring supplies to keep them entertained while we work.
+
+*If a child is sick, however, please do not bring them to class*—instead, please contact me directly about alternative arrangements such as videoconferencing or visiting office hours.
+
+If you have any other parenting or caregiving needs, please feel free to approach me so that we can work together towards a solution. While I maintain the same high expectations for all students regardless of caregiving status, I am happy to problem solve with you in a way that makes you feel supported as you strive for school-parenting balance.
+
+
 ## Inclusion and Access
+
 I strive to set you up for success. If there are circumstances that may affect your performance in this class, _please let me know as soon as possible so that we can work together to develop strategies for succeeding_, which might include adapting assignments to meet both your needs and the requirements of the course.
 
 I ask everyone in the class to help ensure that we can all learn in a supportive and respectful environment, including by using [gender-inclusive language](https://www.gsws.pitt.edu/resources/faculty-resources/gender-inclusivenon-sexist-language-statement-syllabi).
 
-If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both me and the Office of Disability Resources and Services, 140 William Pitt Union, 412-648-7890 / [drsrecep@pitt.edu](mailto:drsrecep@pitt.edu), as early as possible in the term. Disability Resources and Services will verify your disability and help determine reasonable accommodations for this course. For more information, visit [www.studentaffairs.pitt.edu/drs](https://www.studentaffairs.pitt.edu/drs).
+### Disability Services
+
+If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both me and the [Office of Disability Resources and Services](https://www.wellbeing.pitt.edu/disability-resources-services/disability-resources-services), 140 William Pitt Union, 412-648-7890 / [drsrecep@pitt.edu](mailto:drsrecep@pitt.edu) / (412) 228-5347 for P3 ASL users, as early as possible in the term. <abbr title="Disability Resources and Services">DRS</abbr> will verify your disability and help determine reasonable accommodations for this course. For more information, visit [www.wellbeing.pitt.edu/disability-access-accommodations](https://www.wellbeing.pitt.edu/disability-access-accommodations).
 
 For my part, I will work to ensure multiple ways of accessing class materials, including written lesson plans in screen-reader compliant html, alternative text for images, and transcriptions for recorded videos. Because proofreading the latter can be particularly time-consuming, I ask that you please [let me know](mailto:millerb@pitt.edu) early in the semester if you will be relying primarily on transcriptions to access the videos your classmates will produce: I can introduce digital tools like [otter.ai](https://otter.ai) and [rev.com](https://rev.com) that may help with the first draft.
 
+### Email
 While we're on the subject of email, I am obligated to include the standard statement on using your University-issued email address:
 <details><summary>Click to expand.</summary>
 
-<p>Each student is issued a University e-mail address (username@pitt.edu) upon admittance. This e-mail address may be used by the University for official communication with students. Students are expected to read e-mail sent to this account on a regular basis. Failure to read and react to University communications in a timely manner does not absolve the student from knowing and complying with the content of the communications.</p>
-<p>The University provides an e-mail forwarding service that allows students to read their e- mail via other service providers (e.g., Hotmail, AOL, Yahoo). Students that choose to forward their e-mail from their pitt.edu address to another address do so at their own risk. If e-mail is lost as a result of forwarding, it does not absolve the student from responding to official communications sent to their University e-mail address. To forward e-mail sent to your University account, go to <a href="http://accounts.pitt.edu">http://accounts.pitt.edu</a>, log into your account, click on Edit Forwarding Addresses, and follow the instructions on the page. Be sure to log out of your account when you have finished. (For the full E-mail Communication Policy, go to <a href="https://www.bc.pitt.edu/policies/policy/09/09-10-01.html">www.bc.pitt.edu/policies/policy/09/09-10-01.html</a>.)</p>
+<p>Each student is issued a University e-mail address (username@pitt.edu) upon admittance. This e-mail address may be used by the University for official communication with students.  Students are expected to read e-mail sent to this account on a regular basis. Failure to read and react to University communications in a timely manner does not absolve the student from knowing and complying with the content of the communications. The University provides an e-mail forwarding service that allows students to read their e-mail via other service providers (e.g., Hotmail, AOL, Yahoo). Students that choose to forward their e-mail from their pitt.edu address to another address do so at their own risk. If e-mail is lost as a result of forwarding, it does not absolve the student from responding to official communications sent to their University e-mail address.</p>
 </details>
 
 ## Title IX and Mandatory Reporting
+
 The University is committed to combatting sexual misconduct. As a result, University faculty and staff members are required to report any instances of sexual misconduct – including harassment and sexual violence – to the University’ s Title IX office, both so that the victim may be provided appropriate resources/support options and so that the office can attempt to keep track of repeat offenders or other patterns of behavior on or around campus.
 
 What this means is that as your instructor, I am required to report any incidents of sexual misconduct that are directly reported to me, or of which I am somehow made aware.
@@ -39,8 +55,13 @@ If you are the victim of sexual misconduct, Pitt encourages you to reach out to 
 
 If you come to talk to me and I feel like it might be something I am required to report, I will say, “I am happy to listen and support you, but this discussion might fall under mandated reporting. Is that okay?’ The Title IX office aims to be very nice and, even if I report something you discussed with me as required, _Title IX cannot force you to do anything_. They will ask to talk with you, then they will present you with options: one will be to report behavior experienced against you; one will be to request through the University to keep said person who committed that behavior far away from you; and one will be to do nothing. They will also most likely inform you of our on-campus therapists’ office.
 
+## Academic Integrity
 
-## Avoiding Plagiarism
+Students in this course will be expected to comply with the <a href="https://www.provost.pitt.edu/info/ai1.html">University of Pittsburgh’s Policy on Academic Integrity</a>. Any student suspected of violating this obligation for any reason during the semester will be required to participate in the procedural process, initiated at the instructor level, as outlined in the University Guidelines on Academic Integrity. This may include, but is not limited to, the confiscation of the examination of any individual suspected of violating University Policy. Furthermore, no student may bring any unauthorized materials to an exam, including dictionaries and programmable calculators.
+
+To learn more about Academic Integrity, visit the <a href="http://pitt.libguides.com/academicintegrity/">Academic Integrity Guide</a> for an overview of the topic. For hands- on practice, complete the <a href="http://pitt.libguides.com/academicintegrity/plagiarism">Academic Integrity Modules</a>.
+
+### Avoiding Plagiarism
 
 This is a collaborative class, in which we offer each other suggestions and constructive criticism. However, the goal of all this collaboration is to clarify the expression of original ideas – never to substitute someone else's ideas for our own, or to impose our ideas on someone else.
 
@@ -53,8 +74,6 @@ If you want to incorporate materials that others have created, you can do so if 
 If you have any questions, don't hesitate to ask, because Pitt takes a very hard stance on plagiarism. It could get you expelled. Here's an excerpt from the official Policy on Academic Integrity, to give you the flavor:
 
 <blockquote>
-    <p>Cheating/plagiarism will not be tolerated. Students suspected of violating the University of Pittsburgh Policy on Academic Integrity, from the February 1974 Senate Committee on Tenure and Academic Freedom reported to the Senate Council, will be required to participate in the outlined procedural process as initiated by the instructor. A minimum sanction of a zero score for the quiz or exam will be imposed.</p>
-
     <p>A student has an obligation to exhibit honesty and to respect the ethical standards of the profession in carrying out his or her academic assignments.  Without limiting the application of this principle, a student may be found to have violated this obligation if he or she: […]<ol start="8">
         <!--8--><li>Depends on the aid of others in a manner expressly prohibited by the faculty member, in the research, preparation, creation, writing, performing, or publication of work to be submitted for academic credit or evaluation.</li>
         <!--9--><li>Provides aid to another person, knowing such aid is expressly prohibited by the faculty member, in the research, preparation, creation, writing, performing, or publication of work to be submitted for academic credit or evaluation.</li>
@@ -65,7 +84,7 @@ If you have any questions, don't hesitate to ask, because Pitt takes a very hard
     </p>
 </blockquote>
 
-You have the right to a fair hearing, and I’ll talk to you before I talk to anyone else, but it’s far easier just to avoid plagiarism in the first place. All clear cases of deliberate plagiarism will be referred to the appropriate Dean for disciplinary action, including an Academic Integrity Board hearing. For the University's full policy on Academic Integrity and the adjudication process for infringements, including plagiarism, go to <a href="http://www.pitt.edu/~provost/ai1.html">http://www.pitt.edu/~provost/ai1.html</a>.
+You have the right to a fair hearing, and I’ll talk to you before I talk to anyone else, but it’s far easier just to avoid plagiarism in the first place. All clear cases of deliberate plagiarism will be referred to the appropriate Dean for disciplinary action, including an Academic Integrity Board hearing. For the University's full policy on Academic Integrity and the adjudication process for infringements, including plagiarism, go to <a href="https://www.provost.pitt.edu/academic-integrity-guidelines">https://www.provost.pitt.edu/academic-integrity-guidelines</a>.
 
 
 ## On Artificial Intelligence
