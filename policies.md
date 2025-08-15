@@ -114,10 +114,7 @@ As composition theorist Peter Elbow has written in a number of places (see espec
 
 Assessment, though, is more than grading. Throughout the semester, you will be assessing your own work, through your [Mindful Practice Journals](projects#mindful-practice-journal) and reflections on what you were aiming for and what you achieved; you will be offering feedback to each other at presentation time and in conversation; and I will be offering my own formative guidance, based on years in the profession, as you iteratively develop your projects. In short, you will have plentiful moments of evaluation, even as you will not have specific grades ranking your success on any particular assignment against some putative norm.
 
-Nevertheless, at the end of the term, I will be required to submit letter grades to the Registrar. Instead of a fixed rubric or calculation, these **final grades will be based on your own self-assessment**: to the extent you can point to evidence of _course engagement and learning_, you can succeed in this class, regardless of where your project stands in the grand scheme of projects.
-
-<!-- Check Data and Discipline syllabus: any language there you can use? What about Seminar in Pedagogy? -->
-<!-- **at the end of term, I will ask _you_ to select the grade that you will receive in this seminar.** While I am required to reserve the right to change these grades as appropriate, I will not do so – unless I believe you are judging yourself too harshly. -->
+Nevertheless, at the end of the term, I will be required to submit letter grades to the Registrar. Instead of a fixed rubric or calculation, these **final grades will be based on meeting certain shared specifications, which we can discuss and refine together**: a first draft is below. In brief, though, to the extent you can point to evidence of _course engagement and learning_, you can succeed in this class, regardless of where your project stands in the grand scheme of projects.
 
 I am more than happy to talk through what it means to produce this kind of self-assessment, with each of you individually or together as a group, but at the heart of it is **a reflection that looks both forward (what do I want to achieve?) and backward (what have I achieved?), recursively.**
 
@@ -144,3 +141,42 @@ One set of goals can come from me, in that I have requested specific types of co
 You will almost assuredly have other goals of your own! To the extent that these goals are Specific, Measurable, Achievable, Relevant, and Time-bound, you will have an easier time of articulating just how far you've come; but some immeasurable things are also very much worth pursuing, so feel free to name some of those, too.
 
 We'll talk more about how I'll read your [final reflections](projects#final-reflection) as we get closer to the end of the term. For now, just keep taking notes on your goals and your progress in your Mindful Practice Journals, so you're more likely to have evidence to draw from.
+
+
+<details><summary>*Draft* specifications for a final reflection</summary>
+
+    <em>to be discussed and revised by the end of the term</em>
+
+    <h4>Baseline criteria</h4>
+
+    For a minimum grade of B+, all successful final reflections <strong>must</strong>…
+
+    <ul>
+      <li>Link to (or attach) the most recent version of your project</li>
+      <li>Briefly summarize and/or catch-up your project
+        <ul>
+          <li>Name at least one digital tool or digital object of study you used in your project.</li>
+          <li>Describe at least one way in which you attempted to work with your tool or object of study</li>
+        </ul>
+      </li>
+      <li>Name at least one thing in the course that did not happen as you’d expected it – or that did happen, but as you did not expect it</li>
+      <li>Point to one piece of feedback from the course, either given or received, that you want to remember moving forward</li>
+      <li>At least gesture toward your future plans with regard to digital studies and methods</li>
+      <li>Include a minimum of 800 words</li>
+    </ul>
+
+    <h4>Aspirational inspirations</h4>
+
+    To exceed the minimum grade, the best final reflections <strong>may</strong>…
+
+    <ul>
+      <li>Include evidence from earlier in the semester to illustrate how your project (or your learning) developed
+    e.g. quotes from first-day letter, in-class writing, or Mindful Practice Journal; screenshots from project iterations; short video clips selected from presentations / drafts</li>
+      <li>Reflect on the inspiration or exigence for the project, and what kept you inspired throughout</li>
+      <li>Address some of the why and how questions offered under the forms of engagement on the policy page of the course website</li>
+      <li>Acknowledge and discuss the impact of any ways in which you did not meet all the forms of engagement</li>
+      <li>Incorporate ideas from assigned reading materials, with attribution to their sources</li>
+      <li>Assess how well the methods you tried worked for your project, and/or how you might change your approach or application of those methods in the future</li>
+      <li>Propose a concrete plan for next steps on your project</li>
+    </ul>
+</details>
