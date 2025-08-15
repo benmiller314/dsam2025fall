@@ -1,0 +1,7 @@
+I'll start! My name is Ben Miller, and I'm an associate professor in the Composition program of the English department, where in addition to DSAM 3000 I've taught grad courses in Composition Studies and Seminar in Pedagogy and undergrad courses including Composing Digital Media, Writing with Data, Writing with Style, and a bunch of sections of Seminar in Composition. This is my tenth year at Pitt, but my first as Director of the Composition program in the English department.
+
+My book *[Distant Readings of Disciplinarity: Knowing and Doing in Composition-Rhetoric Dissertations](https://upcolorado.com/utah-state-university-press/item/6234-distant-readings-of-disciplinarity)* came out in 2022 from Utah State University Press. Before that I co-edited an academic collection on Composition and Big Data, and I'm also a founding editor of the [Journal of Interactive Technology and Pedagogy](http://jitpedagogy.org), where I'm often called upon to edit both CSS stylesheets and articles-in-progress.
+
+There's more, but maybe that's enough for now! I'm very much looking forward to this semester: I've thought a lot about where it might go, but I've taught enough by now to realize that it's all going to change when we get into it together. I can't wait to see where we end up!
+
+<!-- add picture -->
