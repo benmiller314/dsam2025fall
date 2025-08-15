@@ -26,7 +26,9 @@ header .sr-only-focusable {
 }
 
 article#content {
-	margin: 0 auto;
+    max-width: 50em;
+    margin: 0 auto;
+    padding: 0 2em 1.5em;
 }
 
 a {
