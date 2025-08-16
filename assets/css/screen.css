@@ -57,7 +57,7 @@ ul#lesson-nav a {
 
 /* Front page styling */
 body.front div#background {
-    background-image: url(/../img/course-title.png);
+    background-image: url("../img/course-title.jpg");
 }
 
 nav#front-nav {
