@@ -332,15 +332,17 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 <h3 id="week-14"><a href='plans/week-14'>Week 14: Mon, Nov 25</a> – <strong>No Class: Thanksgiving Break</strong> (digesting)</h3>
 
-Before you leave for break:
-
-* **post feedback for your partners** on their current project iteration as a reply to last week's discussion forum post
-* **vote on the "people's choice" week for when we return
+<div class="alert alert-success">
+    <p>Before you leave for break:</p>
+    <ul>
+        <li><strong>post feedback for your partners</strong> on their current project iteration as a reply to last week's discussion forum post</li>
+        <li><strong>vote on the "people's choice" week</strong> for when we return</li>
+    </ul>
+</div>
 
 
 Otherwise, continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-See below for readings we'll discuss after the break.
 
 
 
