@@ -67,6 +67,11 @@ nav#front-nav {
     padding: 0 1em 1em;
 }
 
+nav#front-nav .nav-item:not(.btn) {
+    grid-column: 1/-1;
+    text-align: center;
+}
+
 body.front details {
     margin: 0 2em;
 }
@@ -74,7 +79,6 @@ body.front details {
 body.front details summary {
     background-color: initial;
     border: initial;
-
 }
 
 body.front #content {
@@ -114,6 +118,7 @@ body.front #content {
         grid-row: 1 / 5;
         align-content: start;
     }
+
 }
 
 .featured-image {
