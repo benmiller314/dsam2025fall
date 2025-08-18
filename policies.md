@@ -9,6 +9,7 @@
     - [Avoiding Plagiarism](#avoiding-plagiarism)
 - [On Artificial Intelligence](#on-artificial-intelligence)
 - [Feedback, Assessment, and Grades](#feedback-assessment-and-grades)
+    - [Forms of Engagement](#forms-of-engagement)
 
 ## Attendance
 
