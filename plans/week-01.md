@@ -39,9 +39,9 @@
 
 * I invite you to make yourself a little name-plate on a tri-folded piece of paper – or adjust the way your name displays in Zoom. For example, I want you to know that you can call me Ben, and that I use he/him pronouns. How would you like us to address you?
 
-* For a little more getting to know you, please fill out [this first day survey](https://forms.gle/o4mCg2iKCmr26F7X7) via Google Forms. If you can't get to it now, then at your earliest convenience. And if you have a device but not this page, you can get here by loading [benmiller314.github.io/dsam2024fall](https://benmiller314.github.io/dsam2024fall), clicking Schedule, and scrolling down to click on Week 1. (Or use the "current lesson" shortcut link at the top.)
+* For a little more getting to know you, please fill out [this first day survey](https://forms.gle/ydduVUJq4YAxp3XRA) via Google Forms. If you can't get to it now, then at your earliest convenience. And if you have a device but not this page, you can get here by loading **[benmiller314.github.io/dsam2025fall](https://benmiller314.github.io/dsam2025fall)**, clicking Schedule, and scrolling down to **click on Week 01**. (Or use the "current lesson" shortcut link at the top.)
 
-* Last pre-class note: I want this class to welcome everyone. While I have not received word from anyone about challenges to hearing or vision, that doesn't mean the challenges don't exist. If you would prefer that I speak up, slow down, or zoom in, or if there's any other class feature that's impeding your success, please do let me know!
+* Last pre-class note: I want this class to welcome everyone. While I have not received word from Disability Resources and Services (DRS) about challenges to hearing or vision, that doesn't mean the challenges don't exist. If you would prefer that I speak up, slow down, or zoom in, or if there's any other class feature that's impeding your success, please do let me know!
 
 
 ### We begin with writing
@@ -68,7 +68,7 @@ NB: I often use that EXT notation to signal an "extension activity," i.e. someth
 
 Let's talk! Please tell us (1) your name, (2) your preferred pronouns if you'd like, and then (3) your brief answer to the _second_ of the seed prompts above: What's an area or field you're familiar with that uses "studies" in its name, and what does it mean to add that term or take it away?
 
-Oh, also! Should we want to take notes, we have a shared google doc just for that purpose, which you can access and edit at **[bit.ly/dsam2024fall-notes](https://bit.ly/dsam2024fall-notes)**.
+Oh, also! Should we want to take notes, we have a shared google doc just for that purpose, which you can access and edit at **[bit.ly/dsam2025fall-notes](https://bit.ly/dsam2025fall-notes)**.
 
 <aside class="alert alert-info">
 NB: When taking collaborative notes, I recommend always leaving at least one blank line underneath where you're typing; it lets others jump in. (So when you do jump in, start by adding at least one blank line underneath where you're typing, to let others do the same.)
@@ -92,7 +92,7 @@ Janet H. Murray, author of _Hamlet on the Holodeck_ and _Inventing the Medium_, 
 <ul><li>What do these affordances help you see about the digital examples you'd chosen?</li> <li>What do your examples help you understand about how Murray defines these affordances?</li> <li>How well do Murray's descriptions line up with your own expectations of what's entailed by being "digital"?</li></ul>
 </div>
 
-Again, let's try to use the [shared notes doc](https://bit.ly/dsam2024fall-notes) if possible.
+Again, let's try to use the [shared notes doc](https://bit.ly/dsam2025fall-notes) if possible.
 
 <details><summary>EXT: another framework</summary>
 <p>Lev Manovich, in <em>The Language of New Media</em>, proposes five "principles of new media," or essential features that shape how digital media behave:</p>
@@ -156,12 +156,12 @@ Assuming we left off at 10:30, let's aim to start up again at 10:40 or so. That 
 <a id="second-half"></a>
 
 ## A letter from Ben
-You can download it from the website in [MS Word](/{{site.course.base_path}}uploads/letter-from-ben-2024.docx) or [HTML (technically Markdown, but still: browser-ready)](/{{site.course.base_path}}uploads/letter-from-ben-2024) format if you'd like to follow along.
+You can download it from the website in [MS Word](/{{site.course.base_path}}uploads/letter-from-ben-2025.docx) or [HTML (technically Markdown, but still: browser-ready)](/{{site.course.base_path}}uploads/letter-from-ben-2025) format if you'd like to follow along.
 
 ## A letter back to Ben
 I'd love to know what you're thinking, after hearing what I've been thinking! To help you all answer at once, without talking over each other, I'd like to find out *in writing*.
 
-Please do this **on the last page of that same [survey from the start of class](https://forms.gle/o4mCg2iKCmr26F7X7)**, which you should still have open – or, if you missed your chance to answer the survey questions at 9:00, go ahead and do it now. If you've misread the instructions and already turned it in, email's a good fallback option: I'm at [millerb@pitt.edu](mailto:millerb@pitt.edu).
+Please do this **on the last page of that same [survey from the start of class](https://forms.gle/ydduVUJq4YAxp3XRA)**, which you should still have open – or, if you missed your chance to answer the survey questions at 9:00, go ahead and do it now. If you've misread the instructions and already turned it in, email's a good fallback option: I'm at [millerb@pitt.edu](mailto:millerb@pitt.edu).
 
 Not sure what to say? Perhaps consider:
 
@@ -174,7 +174,7 @@ Don’t feel that you have to answer every single one of these questions, and es
 
 * EXT: If you finish early, think about making the letter multimodal. e.g. What images or sounds would you want to add? How might you arrange the images and text?
 * EXT: If you finish that, too, consider audience: how might you want to change this letter for posting an introduction to yourself on the course's (public) website, vs. just sending to me?
-* EXT: Finally, if you've considered those and still feel pretty satisfied, feel free to read ahead, and possibly to post what you just imagined! You will need a (free) login to GitHub.com, for which I recommend using a .edu email address.
+* EXT: Finally, if you've considered those and still feel pretty satisfied, feel free to read ahead, and possibly to post what you just imagined! You will need a (free) login to GitHub.com, for which I recommend using a .edu email address: it grants you a free update to a pro account.
 
 ## The briefest intro to GitHub
 
@@ -186,7 +186,7 @@ We'll talk about GitHub a lot more when we get back in two weeks. For now, here 
 * This makes it pretty awesome for project management.
 * I think as digital studies scholars, you should at least be familiar with GitHub, even if you never use it again after this course.
 * To start, I'm going to use one (I hope familiar) feature of the site: a built-in [discussion forum]({{site.repo_url}}/discussions).
-    * You'll need a (free) account. If you don't have one, I recommend you register using a .edu email address, because it'll give you some bonus freebies.
+    * You'll need a (free) account. If you don't have one, I recommend you register using a .edu email address: it grants you a free update to a pro account.
 
 If time allows, please log in and post a quick intro at the link above! I'll try to demonstrate some of the affordances.
 
@@ -205,9 +205,9 @@ In lieu of a whole-class meeting, I'm asking everyone to schedule a one-on-one m
 The first set of assigned readings below is in prep for that office hour visit; they're about the scope and range of digital projects, so it makes sense to **schedule your meeting for after you've looked through these texts.** See the [office hours](../office) page for how to claim a slot or request an alternative if the usual slots won't work for you. That page also has directions to my office.
 
 1. Getting to know each other
-    * If you missed the opportunity earlier, please do fill out and submit the [first-day survey](https://forms.gle/o4mCg2iKCmr26F7X7) to help me get to know you.
-    * You can also post a quick intro on the [discussion forum]({{site.repo_url}}/discussions) from a moment ago; doing it early should surface any login problems before you have to post the reading discussion later on.
-        - You'll need to **create a GitHub account** if you don't already have one. Think about your username: it can, but need not, indicate your real name or match your other online profiles. (Pros and cons either way.)
+    * If you missed the opportunity earlier, please do fill out and submit the [first-day survey](https://forms.gle/ydduVUJq4YAxp3XRA) to help me get to know you.
+    * Please also post a quick intro on the [discussion forum]({{site.repo_url}}/discussions) from a moment ago; doing it early should surface any login problems before you have to post the reading discussion later on.
+        - NB: You'll need to **create a GitHub account** if you don't already have one. Think about your username: it can match your real name or your other online profiles – but it doesn't need to. (Pros and cons either way.)
     * Did you know that Canvas lets you record your name as you'd like it to be pronounced, and listen to the name pronunciations of your classmates? Look for the NameCoach Roster, which will work for for our class and others!
 2. By Friday, **watch / read** the following:
     * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
@@ -215,22 +215,20 @@ The first set of assigned readings below is in prep for that office hour visit; 
     * Risam, Roopika, and Alex Gil. “Introduction: The Questions of Minimal Computing.” Digital Humanities Quarterly, vol. 16, no. 2, 2022, <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</a>.
     * EXT for eager readers:
         - [Sample DSAM project reflections](../sample-projects.md) from years past
-        - Murray, Janet H. “Affordances of the Digital Medium.” <em>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</em>, The MIT Press, 2011, pp. 51–85. <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66">https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66</a>.
-        - Sorapure, Madeline. "Five Principles of New Media: Or, Playing Lev Manovich." <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 8, no. 2, <a href="http://kairos.technorhetoric.net/8.2/coverweb/sorapure/">http://kairos.technorhetoric.net/8.2/coverweb/sorapure/</a>. NB: The obsolescence of Adobe Flash is both unfortunate and also a lesson in the challenges of technical debt. :\
         - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950&ppg=186">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
-        <!-- - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>. -->
+        - Risam, Roopika. Digital Humanities for a World Unmade. <a href="https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade">https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade/</a>. DH2025 Keynote.
 3. Attend your scheduled office-hour meeting
 4. Begin your [Mindful Practice Journal](../projects#mindful-practice-journal) by taking notes in prep for, and in the aftermath of, that meeting.
 
 ### For week 3
 
-When we get back together on September 9th, we'll be talking about GitHub, filetypes, and version control, with only one new reading. BUT there are also **downloads** that you should make sure to start early; if you run into trouble, I can help you troubleshoot during office hours.
+When we get back together on September 8th, we'll be talking about GitHub, filetypes, and version control, and we'll have two new readings – and we'll be joined by one of the coauthors, Alison Langmead. There are also **downloads** that you should make sure to start early: that way, if you run into trouble, I can help you troubleshoot during office hours.
 
 There will also be another discussion forum post besides the introductory one, to give you a chance to think in writing about the readings and to seed our in-class conversation. I'll remind you to look for the link next week.
 
 <details><summary>Click to see download instructions.</summary>
 
-<ul><li><strong>install a plain-text editor</strong> if you don't already have one (e.g. <a href="https://pulsar-edit.dev/">Pulsar</a> or <a href="https://code.visualstudio.com/">Visual Studio Code</a>).</li>
+<ul><li><strong>install a plain-text editor</strong> if you don't already have one (e.g. <a href="https://pulsar-edit.dev/">Pulsar</a> or <a href="https://code.visualstudio.com/">Visual Studio Code</a>). If you're new to this sort of thing, I find Pulsar's interface is a little more straightforward.</li>
 <li><strong>install the <a href="https://desktop.github.com">GitHub Desktop</a> app</strong> and any dependencies it recommends. (NB: This may take up to 20 minutes, so please don't wait until the morning of class!)
     <ul><li>NB: If you get an error saying it's not an approved app, don't worry: it's safe. Instead of double-clicking to open the installer, right-click and choose "Open" to give yourself permission to open it anyway.</li></ul>
     </li>
@@ -239,6 +237,7 @@ There will also be another discussion forum post besides the introductory one, t
 
 <details><summary>Click to see readings.</summary>
 <ul>
+    <li>Birnbaum, David J., and Alison Langmead. “Task-Driven Programming Pedagogy in the Digital Humanities.” <em>New Directions for Computing Education</em>, edited by Samuel B. Fee, Amanda M. Holland-Minkley, and Thomas E. Lombardi, Springer International Publishing, 2017, pp. 63–85. DOI.org (Crossref), <a href="https://doi.org/10.1007/978-3-319-54226-3_5">https://doi.org/10.1007/978-3-319-54226-3_5</a>.</li>
     <li>Stolley, Karl. “The Lo-Fi Manifesto, v 2.0.” <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 20, no. 2, Jan. 2016, <a href="https://kairos.technorhetoric.net/20.2/inventio/stolley/">https://kairos.technorhetoric.net/20.2/inventio/stolley/</a>.</li>
     <li>EXT for eager readers:
     <ul>

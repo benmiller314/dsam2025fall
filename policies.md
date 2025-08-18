@@ -51,7 +51,14 @@ What this means is that as your instructor, I am required to report any incident
 
 There are two important exceptions: a list of the designated University employees who, as counselors and medical professionals, do not have this reporting responsibility and can maintain confidentiality, can be found at [www.titleix.pitt.edu/report/confidentiality](https://www.titleix.pitt.edu/report/confidentiality). An important exemption to the reporting requirement exists for academic work: disclosures about sexual misconduct that are shared as part of an academic project, classroom discussion, or course assignment are not required to be disclosed to the University’ s Title IX office.
 
-If you are the victim of sexual misconduct, Pitt encourages you to reach out to these resources: *Title IX Office: 412-648-7860 *SHARE @ the University Counseling Center: 412-648-7930 (8:30 a.m. to 5 p.m. MF) and 412-648-7856 (after business hours). If you have a safety concern, please contact the University of Pittsburgh Police, 412-624-2121. Other reporting information is available at [titleix.pitt.edu/report-0](https://titleix.pitt.edu/report-0).
+If you are the victim of sexual misconduct, I encourage you to reach out to these resources:
+
+* Title IX Office: 412-648-7860 (8:30 a.m. to 5 p.m. M–F) or via [Pitt Concern Connection](https://app.convercent.com/en-US/LandingPage/2d6327d5-9fec-ea11-a974-000d3ab9f296?_=1612800567898)
+* The [University Counseling Center](https://www.studentafairs.pitt.edu/cc) can be reached at 412-648-7930 (8:30 a.m. to 5 p.m. M–F) and 412-648-7856 (after business hours). They also have additional resources at [www.studentaffairs.pitt.edu/counseling/get-help-now](https://www.studentaffairs.pitt.edu/counseling/get-help-now).
+* Pittsburgh Action Against Rape (PAAR; community resource): 1-866-363-7273 (all hours and days)
+
+**If you have an immediate safety concern, please contact the University of Pittsburgh Police at 412-624-2121 or dial 911.**
+
 
 If you come to talk to me and I feel like it might be something I am required to report, I will say, “I am happy to listen and support you, but this discussion might fall under mandated reporting. Is that okay?’ The Title IX office aims to be very nice and, even if I report something you discussed with me as required, _Title IX cannot force you to do anything_. They will ask to talk with you, then they will present you with options: one will be to report behavior experienced against you; one will be to request through the University to keep said person who committed that behavior far away from you; and one will be to do nothing. They will also most likely inform you of our on-campus therapists’ office.
 
@@ -69,7 +76,9 @@ To misrepresent the origins of an idea is plagiarism, and it is a problem both f
 
 If you want to incorporate materials that others have created, you can do so if you give credit to your source. At a minimum, readers of your work should be able to get back to the original, so be sure to provide at least the author's identity; the original title; the publication venue; the date of publication and/or access; and a URL if appropriate. The English department has some useful resources at <a href="https://www.english.pitt.edu/undergraduate/plagiarism">www.english.pitt.edu/undergraduate/plagiarism</a>.
 
-(And if you want to collaborate with an AI, there are ways to do so without sacrificing your learning. [See below](#artificial-intelligence) for starters, but let’s talk!)
+<div class="alert alert-info">
+And if you want to collaborate with an AI, there are ways to do so without sacrificing your learning. <a href="#artificial-intelligence">See below</a> for starters, but let’s talk!)
+</div>
 
 If you have any questions, don't hesitate to ask, because Pitt takes a very hard stance on plagiarism. It could get you expelled. Here's an excerpt from the official Policy on Academic Integrity, to give you the flavor:
 
@@ -108,7 +117,7 @@ Therefore, I will allow AI-assisted submissions in this class, provided that you
 I'm also happy to talk more about any of this!
 
 ## Feedback, Assessment, and Grades
-_Much of the language below is adapted from Alison Langmead's 2022 fall syllabus for DSAM 3000, if not the particular scholarly conversation I situate it within._
+_Adapted from Alison Langmead's 2022 fall syllabus for DSAM 3000._
 
 As composition theorist Peter Elbow has written in a number of places (see especially his [“Ranking, Evaluating, and Liking”](https://www.jstor.org/stable/378503 "Elbow, Peter. “Ranking, Evaluating, and Liking: Sorting out Three Forms of Judgment.” College English, vol. 55, no. 2, Feb. 1993, pp. 187–206.")), grades are a surprisingly crude way of measuring or producing learning: they reduce complex phenomena to a single letter or number, and thus obscure the differences between, say, public speaking skills and ability to support an argument. Some teachers might try to get around this by assigning percentages of their grades to particular skill-sets, but I find I can’t know, in advance, what any one of you will need to work on: I want us to be free to give more targeted feedback, and set more targeted goals, than any pre-set percentage allows us to do. As I see it, each of you is here to do more than you could before, not be better than anyone else. Grades distract from that, and distract from the particular reactions and suggestions that can help you improve and grow.
 
@@ -120,7 +129,7 @@ I am more than happy to talk through what it means to produce this kind of self-
 
 One set of goals can come from me, in that I have requested specific types of course engagement and deliverables from you. These have all been chosen to guide you through a process of learning what it means to use digital computers mindfully in the context of the humanities and allied social sciences. In a way, my work-requests aspire to be tools for learning in and of themselves, and can serve as signposts of worthwhile engagement. I have offered some metacognitive questions below to help you think through how the work of this course forms a coherent pedagogical point of view and set of structures for you to inhabit.
 
-<h3 id="forms-of-engagement">You can be confident that you are successfully engaging with this seminar by:</h3>
+### You can be confident that you are successfully engaging with this seminar by: {#forms-of-engagement}
 
 * Contributing respectfully to our weekly topical conversations, whether in class or online.
     - Consider: _What is the purpose of seminar conversation? How do we learn from it? How do we balance speaking up, sitting back, branching out, and listening in, to produce the most effective learning environment for ourselves and others?_
@@ -143,7 +152,7 @@ You will almost assuredly have other goals of your own! To the extent that these
 We'll talk more about how I'll read your [final reflections](projects#final-reflection) as we get closer to the end of the term. For now, just keep taking notes on your goals and your progress in your Mindful Practice Journals, so you're more likely to have evidence to draw from.
 
 
-<details><summary>*Draft* specifications for a final reflection</summary>
+<details><summary><h3><em>Draft</em> specifications for a final reflection</h3></summary>
 
     <em>to be discussed and revised by the end of the term</em>
 
