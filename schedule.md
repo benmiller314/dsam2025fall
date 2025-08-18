@@ -83,10 +83,10 @@ For next time: **Schedule a meeting with Ben** for some time next week (that isn
 
 **Meet Ben in [office hours](office) some time this week.** Take notes in your [Mindful Practice Journal](projects.md).
 
-To prepare for this week 02 meeting, ideally by the end of week 01, **watch**:
+To prepare for this week 02 meeting, please (a) **watch**:
 * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
 
-and **read**:
+and (b) **read**:
 
 * Posner, Miriam. How Did They Make That? 29 Aug. 2013, <a href="https://miriamposner.com/blog/how-did-they-make-that/">https://miriamposner.com/blog/how-did-they-make-that/</a>.
 * Risam, Roopika, and Alex Gil. “Introduction: The Questions of Minimal Computing.” Digital Humanities Quarterly, vol. 16, no. 2, 2022, <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</a>.
