@@ -1,7 +1,7 @@
 # Policies
 
 - [Attendance](#attendance)
-- [Children in Class](#children)
+- [Children in Class](#children-in-class)
 - [Inclusion and Access](#inclusion-and-access)
     - [Disability Services](#disability-services)
 - [Title IX and Mandatory Reporting](#title-ix-and-mandatory-reporting)

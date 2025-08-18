@@ -48,17 +48,21 @@
 
 With those preliminaries out of the way, let's begin with some writing! I won't collect what you're about to write, but I will ask you to share something from it, out loud, a little later today. Take about 5-6 minutes on these two tasks together:
 
-<div class="alert alert-success">
-<ol class="spaced">
-    <li>List your associations with the word <em>digital</em>. When you hear it, what (else) do you think of? What does that make you wonder?</li>
-    <li>Think about an area of research, teaching, or practice you know well (or have been recently engaged with) in which the word <em>studies</em> is used in a compound phrase. For me, for example, that might mean "Composition Studies" or "Writing Studies" as opposed to "Composition" or "Writing." Within your chosen area, <em>what do you see changing when you add or take away the "studies" part?</em></li>
-</ol>
+<div class="panel panel-info alert alert-success">
+    <div class="panel-body alert-body">
+        <ol class="spaced">
+            <li>List your associations with the word <em>digital</em>. When you hear it, what (else) do you think of? What does that make you wonder?</li>
+            <li>Think about an area of research, teaching, or practice you know well (or have been recently engaged with) in which the word <em>studies</em> is used in a compound phrase. For me, for example, that might mean "Composition Studies" or "Writing Studies" as opposed to "Composition" or "Writing." Within your chosen area, <em>what do you see changing when you add or take away the "studies" part?</em></li>
+        </ol>
+    </div>
 </div>
 
 EXT: What makes something digital different from something non-digital? What can digital things _do_ (or not do), or what can we do with them?
 
-<aside class="alert alert-info">
-NB: I often use that EXT notation to signal an "extension activity," i.e. something you can do if you finish before the rest of the class, or if you just want to dig a little deeper. (There is always more to do.) In this grad class, I'll also use it to for optional readings that provide more depth or background than we'll have time to get into together, but which might be helpful for some of you on particular subjects.
+<aside class="panel panel-info alert alert-info">
+    <div class="panel-body alert-body">
+    NB: I often use that EXT notation to signal an "extension activity," i.e. something you can do if you finish before the rest of the class, or if you just want to dig a little deeper. (There is always more to do.) In this grad class, I'll also use it to for optional readings that provide more depth or background than we'll have time to get into together, but which might be helpful for some of you on particular subjects.
+    </div>
 </aside>
 
 
@@ -87,9 +91,14 @@ Janet H. Murray, author of _Hamlet on the Holodeck_ and _Inventing the Medium_, 
 
 (To read more, see Murray, Janet H. “Affordances of the Digital Medium.” _Inventing the Medium: Principles of Interaction Design as a Cultural Practice_, The MIT Press, 2011, pp. 51–85. Pitt libraries [has a digital copy](https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66).)
 
-<div class="alert alert-success">
-<p>Take a look back at your notes from the start of class.</p>
-<ul><li>What do these affordances help you see about the digital examples you'd chosen?</li> <li>What do your examples help you understand about how Murray defines these affordances?</li> <li>How well do Murray's descriptions line up with your own expectations of what's entailed by being "digital"?</li></ul>
+<div class="panel panel-info alert alert-success">
+    <div class="panel-body alert-body">
+        <p>Take a look back at your notes from the start of class.</p>
+        <ul>
+            <li>What do these affordances help you see about the digital examples you'd chosen?</li>
+            <li>What do your examples help you understand about how Murray defines these affordances?</li>
+            <li>How well do Murray's descriptions line up with your own expectations of what's entailed by being "digital"?</li></ul>
+    </div>
 </div>
 
 Again, let's try to use the [shared notes doc](https://bit.ly/dsam2025fall-notes) if possible.
@@ -104,7 +113,10 @@ Again, let's try to use the [shared notes doc](https://bit.ly/dsam2025fall-notes
     <li><strong>transcoding:</strong> we understand culture through the lens of computers, and computers through the lens of culture</li>
 </ul>
 
-<div class="alert alert-success">Where do these new terms map neatly onto Murray's, and where do they highlight something else? What affordances follow from these principles/features? What questions do they raise?
+<div class="panel panel-info alert alert-success">
+    <div class="panel-body alert-body">
+        Where do these new terms map neatly onto Murray's, and where do they highlight something else? What affordances follow from these principles/features? What questions do they raise?
+    </div>
 </div>
 
 <p>NB: My preferred way to read more about this hasn't actually been Manovich's book, but rather a webtext by Madeline Sorapure, “Five Priniciples of New Media: Or, Playing Lev Manovich.” <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 8, no. 2, <a href="http://kairos.technorhetoric.net/8.2/coverweb/sorapure/">http://kairos.technorhetoric.net/8.2/coverweb/sorapure/</a>. Unfortunately, that article was built using the now-deprecated Adobe Flash, so it no longer displays the interactive features that illustrated each of the principles. (You can still read a PDF description of what used to be there.) On the plus side, Sorapure's examples were actually created by her students, so if anyone is looking for an independent project, you could do worse than creating a new set of illustrative examples for Manovich's principles (or Murray's, for that matter)!</p>
@@ -113,15 +125,17 @@ Again, let's try to use the [shared notes doc](https://bit.ly/dsam2025fall-notes
 
 ## Writing to remember
 
-<div class="alert alert-success">
-    <p>Spend some time putting marks on a page to help you think through, and consolidate for yourself, what we discussed today. What do you want to remember? What are you left wondering?</p>
+<div class="panel panel-info alert alert-success">
+    <div class="panel-body alert-body">
+        <p>Spend some time putting marks on a page to help you think through, and consolidate for yourself, what we discussed today. What do you want to remember? What are you left wondering?</p>
+    </div>
 </div>
 
 After a few minutes, I'll ask everyone to share one thing, to which the only response will be "thank you."
 
-<details id="an-explanation"><summary>EXT: why I call this "writing to grok"</summary>
+<details id="an-explanation"><summary>EXT: why I sometimes call this "grok-writing"</summary>
 
-<p>I sometimes call this practice "grok-writing," but you're not likely to hear anyone else call it that – unless they've taken my classes, I guess. The phrase "to grok" comes from Robert Heinlein's science fiction novel <em>>Stranger in a Strange Land</em> (first printing, Putnam 1961). Leaving aside, for now, the weird gender-relations of the novel, Heinlein spends a lot of the book harping on how hard it is to translate the word "grok" from Martian to English. It's often rendered as "drink" or especially "drink in." But in general (albeit nerdy) use &mdash; and certainly as I will use it from time to time in this course &mdash; to grok [something] means "to understand [something] fully," in the sense that (a) you no longer need to think consciously about how [something] works, and (b) you could make modifications if the need arose. It's drinking in the sense of absorbing, making it part of you.</p>
+<p>I sometimes call this practice "grok-writing," but you're not likely to hear anyone else call it that – unless they've taken my classes, I guess. The phrase "to grok" comes from Robert Heinlein's science fiction novel <em>>Stranger in a Strange Land</em> (first printing, Putnam 1961). Leaving aside, for now, the uncomfortable gender-relations of the novel, Heinlein spends a lot of the book harping on how hard it is to translate the word "grok" from Martian to English. It's often rendered as "drink" or especially "drink in." But in general (albeit nerdy) use &mdash; and certainly as I will use it from time to time in this course &mdash; to grok [something] means "to understand [something] fully," in the sense that (a) you no longer need to think consciously about how [something] works, and (b) you could make modifications if the need arose. It's drinking in the sense of absorbing, making it part of you.</p>
 
 <details>
     <summary>More detail and some fun quotes</summary>
@@ -195,10 +209,11 @@ If time allows, please log in and post a quick intro at the link above! I'll try
 
 This is probably the most time I'll need to explain homework, both because it's our first time and because we have *two* weeks to cover.
 
-<div class="alert alert-danger">
-<p><strong>Next Monday is a holiday, so there's no <em>synchronous</em> class next week.</strong></p>
-
-<p>In lieu of a whole-class meeting, I'm asking everyone to schedule a one-on-one meeting with me for some time in the next two weeks (ideally by next Friday, September 5): I want to help you brainstorm some ideas for your semester-long independent project.</p>
+<div class="panel panel-info alert alert-danger">
+    <div class="panel-body alert-body">
+        <p><strong>Next Monday is a holiday, so there's no <em>synchronous</em> class next week.</strong></p>
+        <p>In lieu of a whole-class meeting, I'm asking everyone to schedule a one-on-one meeting with me for some time in the next two weeks (ideally by next Friday, September 5): I want to help you brainstorm some ideas for your semester-long independent project.</p>
+    </div>
 </div>
 
 Thank you for bearing with me!

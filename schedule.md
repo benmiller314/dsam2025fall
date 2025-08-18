@@ -8,7 +8,7 @@ banneralt: "banner: phases of the moon"
 # Class-by-Class Schedule
 
 <nav id="shortcuts" class="alert alert-white" aria-label="Shortcut">
-<a href="#current">Jump to latest lesson plan</a>. For the in-class notes doc, go to <a href="https://bit.ly/dsam{{site.course.slugterm}}-notes">bit.ly/dsam{{site.course.slugterm}}-notes</a>.
+    <a href="#current">Jump to latest lesson plan</a>. For the in-class notes doc, go to <a href="https://bit.ly/dsam{{site.course.slugterm}}-notes">bit.ly/dsam{{site.course.slugterm}}-notes</a>.
 </nav>
 
 
@@ -68,7 +68,7 @@ We'll discuss then vote asynchronously in week 13, but you're welcome to weigh i
 
 <a id="current"></a>
 
-<h3 id="week-01"><a href='plans/week-01'>Week 01: Mon, Aug 25</a> – Digital + Studies</h3>
+### [Week 01: Mon, Aug 25](plans/week-01) – Digital + Studies {#week-01}
 
 For next time: **Schedule a meeting with Ben** for some time next week (that isn't Monday) to talk about possible sources/objects for you to process and present on. See the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
 
@@ -79,7 +79,7 @@ For next time: **Schedule a meeting with Ben** for some time next week (that isn
         * NB: this article was built using the now-deprecated Adobe Flash, so it no longer displays the interactive features that illustrated each of the principles. (You can still read a PDF description of what used to be there.) But it's still a more concise encapsulation than reading Manovich's <em>The Language of New Media</em>.
 
 
-<h3 id="week-02"><a href="plans/week-02">Week 02: Mon, Sep 01</a> – <strong>No class: Labor Day</strong> (setting up and setting out)</h3>
+### [Week 02: Mon, Sep 01](plans/week-02) – <strong>No class: Labor Day</strong> (setting up and setting out) {#week-02}
 
 **Meet Ben in [office hours](office) some time this week.** Take notes in your [Mindful Practice Journal](projects.md).
 
@@ -97,7 +97,7 @@ and (b) **read**:
     - Risam, Roopika. Digital Humanities for a World Unmade. <a href="https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade">https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade/</a>. DH2025 Keynote.
 
 
-<h3 id="week-03"><a href='plans/week-03'>Week 03: Mon, Sep 08</a> – Inquiry + Iteration</h3>
+### [Week 03: Mon, Sep 08](plans/week-03) – Inquiry + Iteration {#week-03}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please check the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
@@ -118,7 +118,7 @@ and **read**:
     - Miller, Benjamin. “What’s the Diff? Version History and Revision Reflections.” <em>Writing Spaces</em>, vol. 5, 2023, <a href="https://parlormultimedia.com/writingspaces/whats-the-diff-version-history-and-revision-reflections/">https://parlormultimedia.com/writingspaces/whats-the-diff-version-history-and-revision-reflections/</a>. (NB: This is written for an audience of first-year undergraduates.)
 
 
-<h3 id="week-04"><a href='plans/week-04'>Week 04: Mon, Sep 16</a> – Code + Comments</h3>
+### [Week 04: Mon, Sep 16](plans/week-04) – Code + Comments {#week-04}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
@@ -138,7 +138,7 @@ To prepare for week 04, **read**:
 
 
 
-<h3 id="week-05"><a href="plans/week-05">Week 05: Mon, Sep 23</a> – Project presentations, iteration 1: Sources</h3>
+### [Week 05: Mon, Sep 23](plans/week-05) – Project presentations, iteration 1: Sources {#week-05}
 
 For week 05, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
 
@@ -159,7 +159,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 
 
-<h3 id="week-06"><a href='plans/week-06'>Week 06: Mon, Sep 29</a> – Data + People</h3>
+### [Week 06: Mon, Sep 29](plans/week-06) – Data + People {#week-06}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
@@ -187,7 +187,7 @@ To prepare for week 06, please **read**...
 
 
 
-<h3 id="week-07"><a href='plans/week-07'>Week 07: Mon, Oct 07</a> – Materiality + Modeling</h3>
+### [Week 07: Mon, Oct 07](plans/week-07) – Materiality + Modeling {#week-07}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
@@ -210,7 +210,7 @@ To prepare for week 07, please **watch / read**:
 
 
 
-<h3 id="week-08"><a href='plans/week-08'>Week 08: Mon, Oct 13</a> – Space + Time</h3>
+### [Week 08: Mon, Oct 13](plans/week-08) – Space + Time {#week-08}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
@@ -226,7 +226,7 @@ To prepare for week 08, please **read**:
 
 
 
-<h3 id="week-09"><a href='plans/week-09'>Week 09: Mon, Oct 20</a> – Project presentations, iteration 2: Processed</h3>
+### [Week 09: Mon, Oct 20](plans/week-09) – Project presentations, iteration 2: Processed {#week-09}
 
 To prepare for week 09, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
 
@@ -245,7 +245,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 
 
-<h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 28</a> – Access + Accountability</h3>
+### [Week 10: Mon, Oct 28](plans/week-10) – Access + Accountability {#week-10}
 
 Post **feedback for your partners** on their current project iteration, as a reply to last week's discussion post.
 
@@ -270,7 +270,7 @@ To prepare for week 10, please **read / watch**:
         * <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138">5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars</a>
 
 
-<h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 03</a> – Machines + Learning</h3>
+### [Week 11: Mon, Nov 03](plans/week-11) – Machines + Learning {#week-11}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
@@ -298,7 +298,7 @@ To prepare for week 11, please **read / watch**:
 
 
 
-<h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 10</a> – Exploration + Inspiration</h3>
+### [Week 12: Mon, Nov 10](plans/week-12) – Exploration + Inspiration {#week-12}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
@@ -309,7 +309,7 @@ Of the projects you find, **choose** one that inspires you, and **present** it t
 Post a link to your chosen project to the [discussion forum]({{site.repo_url}}/discussions).
 
 
-<h3 id="week-13"><a href='plans/week-13'>Week 13: Mon, Nov 17</a> – Project presentations, iteration 3: And...?</h3>
+### [Week 13: Mon, Nov 17](plans/week-13) – Project presentations, iteration 3: And...? {#week-13}
 
 To prepare for week 13, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
 
@@ -330,14 +330,16 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 
 
-<h3 id="week-14"><a href='plans/week-14'>Week 14: Mon, Nov 25</a> – <strong>No Class: Thanksgiving Break</strong> (digesting)</h3>
+### [Week 14: Mon, Nov 25](plans/week-14) – <strong>No Class: Thanksgiving Break</strong> (digesting) {#week-14}
 
-<div class="alert alert-success">
-    <p>Before you leave for break:</p>
-    <ul>
-        <li><strong>post feedback for your partners</strong> on their current project iteration as a reply to last week's discussion forum post</li>
-        <li><strong>vote on the "people's choice" week</strong> for when we return</li>
-    </ul>
+<div class="panel panel-info alert alert-success">
+    <div class="panel-body alert-body">
+        <p>Before you leave for break:</p>
+        <ul>
+            <li><strong>post feedback for your partners</strong> on their current project iteration as a reply to last week's discussion forum post</li>
+            <li><strong>vote on the "people's choice" week</strong> for when we return</li>
+        </ul>
+    </div>
 </div>
 
 
@@ -346,13 +348,13 @@ Otherwise, continue working on your project, and take notes in your [Mindful Pra
 
 
 
-<h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 01</a> – TBD (the people's choice)</h3>
+### [Week 15: Mon, Dec 01](plans/week-15) – TBD (the people's choice) {#week-15}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
 Whether there are readings, and what they are, depends on the results of the vote!
 
-<h3 id="week-16"><a href='plans/week-16'>Week 16: Mon, Dec 08</a> – Project presentations, iteration 4: Presented</h3>
+### [Week 16: Mon, Dec 08](plans/week-16) – Project presentations, iteration 4: Presented {#week-16}
 
 In preparation for our final class, **prepare** a now-<strong>10-minute</strong> presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following:
 
@@ -368,9 +370,10 @@ NB: _Bring your own dongle_, if you need one.
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 
-
-<div class="alert alert-info">
-Final reflections are due by <strong>noon on Friday, December 12</strong>, so I can get grades in by Tuesday's deadline.
+<div class="panel panel-info alert alert-info">
+    <div class="panel-body alert-body">
+        Final reflections are due by <strong>noon on Friday, December 12</strong>, so I can get grades in by Tuesday's deadline.
+    </div>
 </div>
 
 Thanks for a great semester – and enjoy the break!
