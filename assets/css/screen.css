@@ -366,13 +366,23 @@ details:not([open]) + p {
     margin-top: 1.2em;
 }
 
+/* Keep headings simple before they're expanded */
+details:not([open]) summary:has(h3) {
+    background-color: initial;
+}
+
+details:not([open]) h3 {
+    font-size:1.2rem;
+    margin-top: -5.75em;
+}
+
 details summary h3 {
     margin-top: -4em;
     margin-left: 1em;
     margin-bottom: 0;
 }
 
-/* But don't do this inside a colored alert */
+/* But inherit colors inside a colored alert */
 .alert summary {
     background-color: inherit;
 }
