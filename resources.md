@@ -48,7 +48,7 @@ Table of contents:
 <dd>Not actually a Pitt service, but a Pittsburgh one, and still potentially good to know about: UpStreet offers free, no-appointment-needed counseling with licensed mental health professionals via webchat -- and it's designed for people aged 12-22. They also have free readings on coping with stress and other wellness topics; conversely, they also offer paid appointments for more extensive one-on-one therapy. </dd>
 
 <dt><a href="http://writingcenter.pitt.edu/">Pitt Writing Center</a></dt>
-<dd>Though not every consultant will have experience in multimodal composing or digital media, some will; but more importantly, the Writing Center's emphases on process-oriented reflection and rhetorical thinking makes every consultant a useful sounding board for developing ideas, getting feedback from an outside reader, and getting organized for revision and reflection. It's a good idea to <a href="http://writingcenter.pitt.edu/undergraduate-services">plan for your visit</a> and to make an appointment before you go.</dd>
+<dd>Though not every consultant will have experience in multimodal composing or digital media, some will; but more importantly, the Writing Center's emphases on process-oriented reflection and rhetorical thinking makes every consultant a useful sounding board for developing ideas, getting feedback from an outside reader, and getting organized for revision and reflection. It's a good idea to <a href="https://writingcenter.pitt.edu/students/one-one-writing-consultation">plan for your visit</a> and to make an appointment before you go.</dd>
 
 </dl>
 
