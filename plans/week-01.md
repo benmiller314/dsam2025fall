@@ -193,14 +193,20 @@ If time allows, please log in and post a quick intro at the link above! I'll try
 
 ## Homework!
 
-This is probably the most time I'll need to explain homework, both because it's our first time and because we have *two* weeks to cover: next Monday is a holiday, so there's no synchronous class next week.
+This is probably the most time I'll need to explain homework, both because it's our first time and because we have *two* weeks to cover.
+
+<div class="alert alert-danger">
+<p><strong>Next Monday is a holiday, so there's no <em>synchronous</em> class next week.</strong></p>
+
+<p>In lieu of a whole-class meeting, I'm asking everyone to schedule a one-on-one meeting with me for some time in the next two weeks (ideally by next Friday, September 5): I want to help you brainstorm some ideas for your semester-long independent project.</p>
+</div>
 
 Thank you for bearing with me!
 
 
 ### For next week
 
-In lieu of a whole-class meeting, I'm asking everyone to schedule a one-on-one meeting with me for some time in the next two weeks: I want to help you brainstorm some ideas for your semester-long independent project.
+
 
 The first set of assigned readings below is in prep for that office hour visit; they're about the scope and range of digital projects, so it makes sense to **schedule your meeting for after you've looked through these texts.** See the [office hours](../office) page for how to claim a slot or request an alternative if the usual slots won't work for you. That page also has directions to my office.
 
@@ -217,7 +223,7 @@ The first set of assigned readings below is in prep for that office hour visit; 
         - [Sample DSAM project reflections](../sample-projects.md) from years past
         - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950&ppg=186">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
         - Risam, Roopika. Digital Humanities for a World Unmade. <a href="https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade">https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade/</a>. DH2025 Keynote.
-3. Attend your scheduled office-hour meeting
+3. Attend your scheduled [office-hour](../office) meeting
 4. Begin your [Mindful Practice Journal](../projects#mindful-practice-journal) by taking notes in prep for, and in the aftermath of, that meeting.
 
 ### For week 3
