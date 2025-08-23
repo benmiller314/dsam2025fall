@@ -128,7 +128,7 @@ To prepare for week 04, **read**:
     - Section 1: "The Man in the Taupe Blazer."
 * Vee, Annette. “Introduction: Computer Programming as Literacy.” <em>Coding Literacy</em>, MIT Press, 2017, pp. 1–42, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.  <a href="https://direct-mit-edu.pitt.idm.oclc.org/books/monograph/3543/Coding-LiteracyHow-Computer-Programming-Is">(Pitt library link)</a>.
 * Bertram, Lillian-Yvonne, <a href="https://www.lillianyvonnebertram.com/">https://www.lillianyvonnebertram.com/</a>. Read around in Projects, especially "Forever Gwen Brooks," "Syncopated Star," and "I dream of creating an intelligent machine". Look up how to "View Page Source" using your preferred browser. Then view page source on each of these projects.
-* Whalen, Zach. “Any Means Necessary to Refuse Erasure by Algorithm: Lillian-Yvonne Bertram’s Travesty Generator.” <em>Digital Humanities Quarterly</em>, vol. 017, no. 2, July 2023, http://digitalhumanities.org:8081/dhq/vol/17/2/000707/000707.html.
+* Whalen, Zach. “Any Means Necessary to Refuse Erasure by Algorithm: Lillian-Yvonne Bertram’s Travesty Generator.” <em>Digital Humanities Quarterly</em>, vol. 017, no. 2, July 2023, <a href="https://digitalhumanities.org:8081/dhq/vol/17/2/000707/000707.html">https://digitalhumanities.org:8081/dhq/vol/17/2/000707/000707.html</a>.
 * Montfort, Nick, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter. “10: Introduction.” _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_, The MIT Press, 2012, pp. 1–17. direct.mit.edu, <a href="https://doi.org/10.7551/mitpress/9040.001.0001">https://doi.org/10.7551/mitpress/9040.001.0001</a>.
 * Montfort, Nick. "Appendix A: Why Program?" <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 319–330, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/319">https://mitpress.ublish.com/ebook/epah2e-preview/12629/319</a>.
 
@@ -206,7 +206,7 @@ To prepare for week 07, please **watch / read**:
 * EXT for eager readers:
     - Jannidis, Fotis, and Julia Flanders. The remainder of the chapter above.
     - Crawford, Kate, and Vladan Joler. “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources.” AI Now Institute and Share Lab, 7 Sept. 2018, <a href="https://www.anatomyof.ai">https://www.anatomyof.ai</a>.
-    - Crump, Jon. “Generating an Ordered Data Set from an OCR Text File.” <em>Programming Historian</em>, Nov. 2014. programminghistorian.org, https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file.
+    - Crump, Jon. “Generating an Ordered Data Set from an OCR Text File.” <em>Programming Historian</em>, Nov. 2014. programminghistorian.org, <a href="https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file">https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file</a>.
 
 
 
@@ -279,7 +279,7 @@ To prepare for week 11, please **read / watch**:
 * "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty." WIRED, YouTube, 18 Aug 2021. <a href="https://www.youtube.com/watch?v=5q87K1WaoFI">https://www.youtube.com/watch?v=5q87K1WaoFI</a>.
 * Newhauser, Mary. “What Is Generative AI? A Comprehensive Guide for Everyone.” GPTech, 26 June 2023, <a href="https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners">https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners</a>.
 * Roberts, Sarah T. “Your AI Is a Human.” <em>Your Computer Is On Fire</em>, edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, and Kavita Philip, MIT Press, 2021, pp. 61–83. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6479710">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6479710</a>.
-* Pengfei Li, Jianyi Yang, Mohammad A Islam, and Shaolei Ren. “Making AI Less ‘Thirsty’ – Communications of the ACM.” <em>Communications of the ACM</em>, vol. 68, no. 7, June 2025, pp. 54–61, https://doi.org/10.1145/3724499.
+* Pengfei Li, Jianyi Yang, Mohammad A Islam, and Shaolei Ren. “Making AI Less ‘Thirsty’ – Communications of the ACM.” <em>Communications of the ACM</em>, vol. 68, no. 7, June 2025, pp. 54–61, <a href="https://doi.org/10.1145/3724499">https://doi.org/10.1145/3724499</a>.
 * Shane, Janelle. “An Exercise in Frustration.” AI Weirdness, 21 May 2024, <a href="https://www.aiweirdness.com/an-exercise-in-frustration/">https://www.aiweirdness.com/an-exercise-in-frustration/</a>.
 * Shane, Janelle. “When Algorithms Surprise Us.” AI Weirdness, 13 Apr 2018, <a href="https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/">https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/</a>.
 * Onuoha, Mimi and Mother Cyborg (Diana Nucera). “A People’s Guide To Tech: Artificial Intelligence.” Allied Media Projects, Aug 2018, <a href="https://alliedmedia.org/resources/peoples-guide-to-ai">https://alliedmedia.org/resources/peoples-guide-to-ai</a>.
