@@ -241,6 +241,10 @@ The first set of assigned readings below is in prep for that office hour visit; 
         - [Sample DSAM project reflections](../sample-projects.md) from years past
         - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950&ppg=186">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
         - Risam, Roopika. "Digital Humanities for a World Unmade." <a href="https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade">https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade/</a>. DH2025 Keynote.
+        - Citations from today:
+            * Manovich, Lev. _The Language of New Media_. MIT Press, 2002.
+            * Murray, Janet H. “Affordances of the Digital Medium.” _Inventing the Medium: Principles of Interaction Design as a Cultural Practice_, by Janet H. Murray, The MIT Press, 2011, pp. 51–85. pitt.primo.exlibrisgroup.com, [https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66](https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66).
+            * Sorapure, Madeline. “Five Priniciples of New Media: Or, Playing Lev Manovich.” _Kairos: A Journal of Rhetoric, Technology, and Pedagogy_, vol. 8, no. 2, http://kairos.technorhetoric.net/8.2/coverweb/sorapure/. Accessed 28 Aug. 2017.
 4. Attend your scheduled [office-hour](../office) meeting.
 5. Begin your [Mindful Practice Journal](../projects#mindful-practice-journal) by taking notes in prep for, and in the aftermath of, that meeting.
 
