@@ -23,10 +23,10 @@
     - Writing to remember (~15 min)
 * Break (10 min)
 * [Second half](#second-half): Getting to know each other (70 min)
-    - Letter from Ben (~10 min)
+    - Letter from Ben (~15 min)
     - Letter to Ben (~20 min)
     - The briefest intro to GitHub (~10 min)
-* HW for next time (~15 min)
+* [Homework for next time](#hw) (~15 min)
 
 
 
@@ -170,7 +170,7 @@ Assuming we left off at 10:30, let's aim to start up again at 10:40 or so. That 
 <a id="second-half"></a>
 
 ## A letter from Ben
-You can download it from the website in [MS Word](/{{site.course.base_path}}uploads/letter-from-ben-2025.docx) or [HTML (technically Markdown, but still: browser-ready)](/{{site.course.base_path}}uploads/letter-from-ben-2025) format if you'd like to follow along.
+You can download it from the website in [MS Word](/{{site.course.base_path}}uploads/letter-from-ben-2025.docx) or [HTML](/{{site.course.base_path}}uploads/letter-from-ben) format if you'd like to follow along.
 
 ## A letter back to Ben
 I'd love to know what you're thinking, after hearing what I've been thinking! To help you all answer at once, without talking over each other, I'd like to find out *in writing*.
@@ -219,7 +219,7 @@ This is probably the most time I'll need to explain homework, both because it's 
 Thank you for bearing with me!
 
 
-### For next week
+### For next week {#hw}
 
 
 
@@ -230,20 +230,22 @@ The first set of assigned readings below is in prep for that office hour visit; 
     * Please also post a quick intro on the [discussion forum]({{site.repo_url}}/discussions) from a moment ago; doing it early should surface any login problems before you have to post the reading discussion later on.
         - NB: You'll need to **create a GitHub account** if you don't already have one. Think about your username: it can match your real name or your other online profiles – but it doesn't need to. (Pros and cons either way.)
     * Did you know that Canvas lets you record your name as you'd like it to be pronounced, and listen to the name pronunciations of your classmates? Look for the NameCoach Roster, which will work for for our class and others!
-2. By Friday, **watch / read** the following:
+    * All the course policies and project descriptions are on this website, but if you'd like a more traditional single-stop document, here's the same content formatted as [a syllabus](../uploads/2261 Benjamin Miller DSAM 3000 Seminar in Digital Studies and Methods Fall 2025.pdf).
+2. Sign up for a [one-on-one meeting with Ben](../office).
+3. Before that meeting, **watch / read** the following:
     * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
     * Posner, Miriam. How Did They Make That? 29 Aug. 2013, <a href="https://miriamposner.com/blog/how-did-they-make-that/">https://miriamposner.com/blog/how-did-they-make-that/</a>.
     * Risam, Roopika, and Alex Gil. “Introduction: The Questions of Minimal Computing.” Digital Humanities Quarterly, vol. 16, no. 2, 2022, <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</a>.
     * EXT for eager readers:
         - [Sample DSAM project reflections](../sample-projects.md) from years past
         - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950&ppg=186">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
-        - Risam, Roopika. Digital Humanities for a World Unmade. <a href="https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade">https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade/</a>. DH2025 Keynote.
-3. Attend your scheduled [office-hour](../office) meeting
-4. Begin your [Mindful Practice Journal](../projects#mindful-practice-journal) by taking notes in prep for, and in the aftermath of, that meeting.
+        - Risam, Roopika. "Digital Humanities for a World Unmade." <a href="https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade">https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade/</a>. DH2025 Keynote.
+4. Attend your scheduled [office-hour](../office) meeting.
+5. Begin your [Mindful Practice Journal](../projects#mindful-practice-journal) by taking notes in prep for, and in the aftermath of, that meeting.
 
 ### For week 3
 
-When we get back together on September 8th, we'll be talking about GitHub, filetypes, and version control, and we'll have two new readings – and we'll be joined by one of the coauthors, Alison Langmead. There are also **downloads** that you should make sure to start early: that way, if you run into trouble, I can help you troubleshoot during office hours.
+When we get back together on September 8th, we'll be talking about GitHub, filetypes, and version control, and we'll have two new readings – and we'll be joined by one of the authors, Dr. Alison Langmead. There are also **downloads** that you should make sure to start early: that way, if you run into trouble, I can help you troubleshoot during office hours.
 
 There will also be another discussion forum post besides the introductory one, to give you a chance to think in writing about the readings and to seed our in-class conversation. I'll remind you to look for the link next week.
 
