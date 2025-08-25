@@ -256,6 +256,7 @@ There will also be another discussion forum post besides the introductory one, t
 <li><strong>install the <a href="https://desktop.github.com">GitHub Desktop</a> app</strong> and any dependencies it recommends. (NB: This may take up to 20 minutes, so please don't wait until the morning of class!)
     <ul><li>NB: If you get an error saying it's not an approved app, don't worry: it's safe. Instead of double-clicking to open the installer, right-click and choose "Open" to give yourself permission to open it anyway.</li></ul>
     </li>
+<li>Be aware that both of these applications will work on Mac, Windows, or Linux – but will probably NOT work on Android or iOS. In other words: you'll want a laptop, rather than a tablet, for this class. If you don't have a laptop (or you'd rather not bring it to campus), <a href="https://library.pitt.edu/borrowing-supplies-and-technology">you can borrow one at the Hillman Library service desk</a> for up to 8 hours.
 </ul>
 </details>
 
