@@ -232,6 +232,7 @@ The first set of assigned readings below is in prep for that office hour visit; 
     * Did you know that Canvas lets you record your name as you'd like it to be pronounced, and listen to the name pronunciations of your classmates? Look for the NameCoach Roster, which will work for for our class and others!
     * All the course policies and project descriptions are on this website, but if you'd like a more traditional single-stop document, here's the same content formatted as [a syllabus](../uploads/2261 Benjamin Miller DSAM 3000 Seminar in Digital Studies and Methods Fall 2025.pdf).
 2. Sign up for a [one-on-one meeting with Ben](../office).
+    * NB: These hours are extended for the first few weeks to accommodate these meetings. Most of the time, I'll only be in the office Monday and Thursday 12:30-2:00.
 3. Before that meeting, **watch / read** the following:
     * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
     * Posner, Miriam. How Did They Make That? 29 Aug. 2013, <a href="https://miriamposner.com/blog/how-did-they-make-that/">https://miriamposner.com/blog/how-did-they-make-that/</a>.
