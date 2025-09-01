@@ -66,7 +66,7 @@ We'll discuss then vote asynchronously in week 13, but you're welcome to weigh i
 
 
 
-<a id="current"></a>
+
 
 ### [Week 01: Mon, Aug 25](plans/week-01) – Digital + Studies {#week-01}
 
@@ -79,6 +79,7 @@ For next time: **Schedule a meeting with Ben** for some time next week (that isn
         * NB: this article was built using the now-deprecated Adobe Flash, so it no longer displays the interactive features that illustrated each of the principles. (You can still read a PDF description of what used to be there.) But it's still a more concise encapsulation than reading Manovich's <em>The Language of New Media</em>.
 
 
+<a id="current"></a>
 ### [Week 02: Mon, Sep 01](plans/week-02) – <strong>No class: Labor Day</strong> (setting up and setting out) {#week-02}
 
 **Meet Ben in [office hours](office) some time this week.** Take notes in your [Mindful Practice Journal](projects.md).
