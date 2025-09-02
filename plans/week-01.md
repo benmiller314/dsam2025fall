@@ -61,7 +61,7 @@ EXT: What makes something digital different from something non-digital? What can
 
 <aside class="panel panel-info alert alert-info">
     <div class="panel-body alert-body">
-    NB: I often use that EXT notation to signal an "extension activity," i.e. something you can do if you finish before the rest of the class, or if you just want to dig a little deeper. (There is always more to do.) In this grad class, I'll also use it to for optional readings that provide more depth or background than we'll have time to get into together, but which might be helpful for some of you on particular subjects.
+    NB: I often use that EXT notation to signal an "extension activity," i.e. something you can do if you finish before the rest of the class, or if you just want to dig a little deeper. (There is always more to do.) In this grad class, I'll also use it for optional readings that provide more depth or background than we'll have time to get into together, but which might be helpful for some of you on particular subjects.
     </div>
 </aside>
 
