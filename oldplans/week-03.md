@@ -46,7 +46,22 @@
 
 To be clear, you don't need to express *everything* you're thinking! This is meant to be low stakes. Pick one thing, and unpack it for a paragraph or two. What stood out to you? What does it make you wonder? -->
 
+### Welcoming new people (5 min)
+
+We have at least one new student and one new faculty member with us today who wasn't here last week!
+
+While we don't have time to go all the way around the room with intro spiels, I do want to make everyone welcome and help you all get to know one another. So please:
+
+1. let's take out (or re/make) our little nameplates, and
+2. when it's your turn to make a comment, please also say your name and program before you start.
+
+I will also briefly introduce our special guest, Dr. Alison Langmead! Alison wears many hats: she is faculty in both <abbr title="Dietrich School of Arts and Sciences">DSAS</abbr> and <abbr title="School of Computing and Information">SCI</abbr>, holding both a PhD and an MLIS; she directs the Visual Media Workshop; she's the graduate advisor for the <abbr title="Digital Studies and Methods">DSAM</abbr> certificate program, and has taught the DSAM Practicum, Seminar, and Capstone courses more than a few times. She also publishes, as you know, in digital humanities and digital culture and especially on mindful application of digital methods. Thank you so much for joining us!
+
+
+
 ### Starting points
+
+
 
 <details id="ease-and-expertise"><summary>Ease and expertise</summary>
     <p>Stolley writes:<blockquote>Software and communications technologies that elevate ease over expertise are the culprits here. Those who teach have an even more pressing responsibility to learn and then engage students with digital approaches and technologies that students themselves would not likely discover independently....The richest learning experiences reveal how failure and crude initial work transform to something better only through ongoing research and revision.</blockquote></p>
