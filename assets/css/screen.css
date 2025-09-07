@@ -175,7 +175,8 @@ footer a:hover, footer a:focus, footer a:visited {
 }
 
 dfn {
-    font-style: initial;
+    font-style: italic;
+	font-weight: 600;
 }
 
 /* Header spacing */
