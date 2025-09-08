@@ -37,19 +37,18 @@
     - Discussion of readings, using your posts as jumping off points (~60 min)
     - Writing to Remember (~15 min)
 * Break (10 min)
-* [Second half](#second-half): Getting to know GitHub (75 min)
+* [Second half](#second-half): Getting to know Git(Hub) (75 min)
     - Affordances
     - Repositories
-    - Commits  
+    - Commits
+    - Push & pull
+    - Fork & clone
 * HW for next time (~5 min)
 
 
 
 ## First half: Learning, Openness, Flexibility, Iteration {#first-half}
 
-<!-- Only two posts to the discussion board this week by the time I went to bed! I know it was weird with Labor Day, and we're just getting started, but I do hope you'll agree with me that getting some thoughts in writing is a good way to (a) preserve an impression of what you were thinking before class, which can (b) help you reflect on what you've learned when you look back at it from the end of the semester or certificate program. Not only that, but writing is also (c) a good way to *figure out* what you're thinking in response to these readings.
-
-To be clear, you don't need to express *everything* you're thinking! This is meant to be low stakes. Pick one thing, and unpack it for a paragraph or two. What stood out to you? What does it make you wonder? -->
 
 ### Welcoming new people (5 min)
 
@@ -65,21 +64,39 @@ I will also briefly introduce our special guest, Dr. Alison Langmead! Alison wea
 
 
 ### Starting points
+Below are some passages to revisit and unpack. As we discuss, let's take notes at [bit.ly/dsam{{site.course.slugterm}}-notes](https://bit.ly/dsam{{site.course.slugterm}}-notes). (Any volunteers to lead the note-taking?)
 
+<details id="exposure-and-practice"><summary>Background exposure to digital tools</summary>
+    <p>Scylla brought us this passage from the start of Birnbaum and Langmead's article:</p>
+    <blockquote>
+        <p>Written argumentation is a complex tool that takes skill and practice to master, and we are not expected to master it quickly or all at once.</p>
+        <p>Our training in how to use this tool begins as soon as we learn to read and write, that is to say, in elementary school. Slowly but surely, throughout K-12 education, we learn the principles of writing grammatically correct sentences that can be put in a particular order so that they might best convey to others the ideas that we have in our heads. Before students reach college, they will have been exposed to—if not mastered—the principles of effective analytic writing. They will then be expected to practice this tool throughout college in different subject areas. Indeed, students will take their ability to produce essays from their Japanese history classes to their Russian fairy tales classes to their Renaissance art history classes, applying this tool to each successive domain and using it to demonstrate and communicate what they have learned of the subject.</p>
+    </blockquote>
+    <p>This raises some questions. In Scylla's words: "What is the backdrop of digital tools that we've all been exposed to throughout our lived experiences and our schooling? How does that shape what tools we reach for when planning a digital humanities (DH) project? What can be learned about those contrasting experiences?"</p>
+    <p>John's post included some of the many programming languages he's worked in, most quite some time ago, I think; but beyond those, I just wonder about the tools we reach for when we have a question. How many turn to Google first? Wikipedia? Library database? ChatGPT? What was your go-to growing up? How has it changed?</p>
+</details>
 
+<details id="useful-tool"><summary>Not a requirement but a useful tool</summary>
+    <p>Rose, Namrata, Tunga, and Li all raised questions about how lines have been drawn (or walls have been built?) between <em>the humanities</em> and <em>the digital</em>.</p>
+    <p>On the one hand, "newcomers to Digital Humanities [...] will have much to learn that might seem entirely alien and alienating" (Birnbaum and Langmead 66); on the other hand, "what is new is often much more the digital context than the actual research practice" (ibid), such that more of our prior knowledge and skillsets might be applicable than it seems at first. To the extent that "integrating digital tools into humanities training is not yet widespread practice, [...] this might result from a misconception that digital tools are something foreign that we import from outside the humanities" (64).</p>
+    <p>Namrata asked, "how would I make the decision to use digital humanities to answer my research questions as opposed to using the methods I'm trained in? [...] How do I prevent myself from employing digital methods <em>for the sake of</em> using digital methods?"</p>
+    <p>I think Rose's post begins to speak to that, drawing on Birnbaum and Langmead to argue that "digital methods are not a <em>requirement</em>, but a <em>useful tool</em> to have in the event it would benefit the research process in a particular project." Rose, do you want to say more? Namrata? Alison?</p>
 
-<details id="ease-and-expertise"><summary>Ease and expertise</summary>
-    <p>Stolley writes:<blockquote>Software and communications technologies that elevate ease over expertise are the culprits here. Those who teach have an even more pressing responsibility to learn and then engage students with digital approaches and technologies that students themselves would not likely discover independently....The richest learning experiences reveal how failure and crude initial work transform to something better only through ongoing research and revision.</blockquote></p>
+</details>
 
-    <ul><li>Stolley does call this a "manifesto," so he probably knows he's being a bit hyperbolic. How might we think about the balance between the value he sees in engaging with difficulty and the value in offering on-ramps for wider participation?</li><li>Are ease and expertise (always/sometimes/never) opposed?</li></ul>
-</details> <!-- /ease and expertise -->
+<details id="seduction-of-seamlessness"><summary>The seduction of seamlessness</summary>
+    <p>Yanni was braced by Stolley's healthy dose of skepticism toward "the highest-fi functionality that proposes to be a marker of upper-echelon digital products." He noted, too, the "ubiquity" of products designed for work and how they often become "the same things we use when we're ostensibly not working," concluding that "the seamless-ness of it all is a bit chilling to me." Those were Yanni's words; here are Stolley's:</p>
+    <blockquote>When writers write and revise by hand to make digital things, they introduce a missing human element and human timescale into the process and the production. [...] Yet far too many [people working in rhetoric, writing, and the humanities], and their students, surrender writing and its demand for sophisticated production knowledge to any interface that promises to make an author's life easier. [...To the contrary, t]he richest learning experiences reveal how failure and crude initial work transform to something better only through ongoing research and revision.</blockquote>
+    <p>Tunga, likewise, draws on Risam and Gil to focus on "grit and creativity [as] the driving force behind making digital projects work": success doesn't come from raw computational power, or tools that promise to make life easy for you, but rather (in Risam and Gil's words) "shifting the frame of our thinking" toward "identifying the resources we have at our disposal" (paragraph 7), and "making do with what you have however you can."</p>
+    <p>But there's a tension here, right? In proposing to use minimal, lofi tools – which would work well in the many constrained environments Risam and Gil discuss –  Stolley is also challenging us to engage in difficult learning of new approaches: to forgo the Microsoft Word we know and try a plain-text editor for the same purposes. How do you think about the balance between these two kinds of minimalism?</p>
+</details><!-- /ease and expertise -->
 
-<details id="free-as-in"><summary>Free as in...</summary>
+<!-- <details id="free-as-in"><summary>Free as in...</summary>
     <p>Stolley writes:<blockquote>Lo-fi production technologies are stable and free: sometimes free as in beer; sometimes free as in speech; and sometimes, if not chosen only after careful research, <a href="http://www.linux-mag.com/id/1678/" title="I know it's broken. It wasn't originally. You can use a bookmarklet to find it on the Internet Archive!">free as in puppy</a>.</blockquote></p>
     <ul><li>Can we unpack these metaphors, especially for those who haven't encountered them before?</li><li>What's the role of research and stability here?</li></ul>
 </details> <!-- /free as in... -->
 
-<details id="to-database-or-not"><summary>To database or not to database</summary>
+<!-- <details id="to-database-or-not"><summary>To database or not to database</summary>
     <p>Stolley writes:<blockquote><p>Ask someone why they chose a particular technology for a project, and you will often find one little feature driving the decision. It’s astounding, for example, to discover that people choose to set up WordPress to run a small website simply because they wanted a way to repeat the navigation across the four or five pages that made up the site. For that one feature, they pay the tax of securing a database connection and applying software updates for the life of the project [...]</p><p>A database might be lo-fi on its surface, but <strong>a database is best employed only under one of two conditions, usually both</strong>: first, there must be far more records than can be reasonably handled by flat files (that is, a database record per page of a website, rather than an HTML file per page). Second, database-like things must routinely be done to those records: sorting, counting, joining, and so on, in the context of more read–write operations than can be handled by flat files. <strong>A five-page website that’s infrequently updated does not fit that bill.</strong> (emphasis added)</p></blockquote></p>
     <p>This feels important to flag as you start to imagine what your <a href="../projects#palimpsest-of-public-iteration">public-facing project deliverables</a> will look like, through the several iterations you'll build this term. Some of you are, indeed, planning to do database-like things! But if you only have a handful of objects or arguments, rather than a big spreadsheet's worth of data, maybe standard HTML is enough – and well worth learning in the context of a class like DSAM.</p>
     <p>(Even if you haven't done it before, I bet I can get you up and running in about 2-3 weeks with tutorials like <a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners">HTML & CSS for absolute beginners</a> and <a href="https://flukeout.github.io/">CSS Diner</a>. And after all, to quote Stolley again, "to learn any one markup language is to learn <em>about</em> the general idea of markup languages," making it easier to learn others later on.)</p>
@@ -267,8 +284,12 @@ What do you think?
 
 ### Shared readings
 
-Without EXTs, this adds up to 96 page-equivalents; adding *all* the EXTs would roughly double it, to 181. There are also intermediate options.
+Birnbaum and Langmead write:
+> Our argument is not that every humanist needs to learn to code, but that humanities scholars whose research would benefit from the use of digital methods ought to be given access to more focused, domain-specific opportunities to acquire the knowledge and skills needed to conduct that research. And if the research agenda cannot be seen to completion entirely with existing software tools, humanities scholars should be encouraged to build their own. (75)
 
+With that in mind, next week's readings consider the means by which new software tools are built: computer code. NB: Without EXTs, this adds up to 96 page-equivalents; adding *all* the EXTs would roughly double it, to 181. There are also intermediate options.
+
+By Friday, please **read**:
 
 * Ford, Paul. <em>What Is Code? If You Don’t Know, You Need to Read This</em>, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>.
     - Section 1, starting with "The Man in the Taupe Blazer," ending (ironically enough) at Section 2: "Let's Begin."
