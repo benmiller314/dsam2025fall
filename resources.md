@@ -184,13 +184,25 @@ In some ways the opposite of transcription, these are tools that will help you r
 In this section, I want to add tutorials for acquiring digital competencies that will apply broadly, beyond specific tools or use-cases.
 
 <dl>
-<dt>Regular Expressions</dt>
-<dd><p>The first example I want to add is for the souped-up search-and-replace tool, <em>regular expressions</em> (or <em>regex</em> for short). Do you need to find all the words in a document that start with capital letters but don't start sentences? Need to find names listed Lastname, Firstname and dynamically reshape them so they're Firstname Lastname – in a single step? Need to add a new XML tag or CSS class to every datelike string in a document? Regex lets you do all this, and more. I've found it as useful for parsing unstructured documents into data-like formats as for updating lesson plans and application materials from one year to the next.</p>
+    <dt>Regular Expressions</dt>
+    <dd>
+        <p>The first example I want to add is for the souped-up search-and-replace tool, <em>regular expressions</em> (or <em>regex</em> for short). Do you need to find all the words in a document that start with capital letters but don't start sentences? Need to find names listed Lastname, Firstname and dynamically reshape them so they're Firstname Lastname – in a single step? Need to add a new XML tag or CSS class to every datelike string in a document? Regex lets you do all this, and more. I've found it as useful for parsing unstructured documents into data-like formats as for updating lesson plans and application materials from one year to the next.</p>
 
-<p>And I've just discovered an interactive tutorial that makes it pretty quick to learn: check out <a href="https://regexlearn.com/">https://regexlearn.com/</a>. You might just <a href="https://xkcd.com/208/" title="xkcd is by Randall Munroe, and is licensed under CC-BY-NC-2.5.">feel like a superhero</a>.</p>
-</dd>
-<dd>More suggestions welcome as you find them!</dd>
+        <p>And I've just discovered an interactive tutorial that makes it pretty quick to learn: check out <a href="https://regexlearn.com/">https://regexlearn.com/</a>. You might just <a href="https://xkcd.com/208/" title="xkcd is by Randall Munroe, and is licensed under CC-BY-NC-2.5.">feel like a superhero</a>.</p>
+    </dd>
+    <dt><a href="https://humanitiesprogramming.github.io/resources/command-line-tutorial/">Introduction to Command-Line Interface (CLI)</a></dt>
+    <dd>
+        <p>Most of the time, we interact with computers by moving a pointer, clicking a mouse, working with windows and icons and buttons. But pretty much everything you do with a mouse, you can also do with typed commands. In fact, you can do more: lot of DH tools are accessible only from this <em>command line</em>, or <em>terminal</em>, because it allows you to run scripts directly from files (and because programming pretty interfaces adds a whole extra layer of complication for the tool-builder).</p>
+        <p>I think of it kind of like going backstage, to where all the pulleys and counterweights are accessible... but where it's also kind of dark.</p>
+        <p>If you're looking for a light in the darkness, or you just want to feel kind of cool and hacker-y (no shame in that), this intro tutorial from the Scholars' Lab at the University of Virginia is a good place to start. (There's also a whole curriculum for Intro to Humanities Programming on the same site, if you want more of that than DSAM is giving you!)</p>
+    </dd>
+    <dt><a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners">HTML &amp; CSS for absolute beginners</a></dt>
+    <dd>
+        <p>A one-stop shop for learning basic web architecture from the ground up, brought to you by my favorite CSS YouTuber (don't mock me, that's totally a thing), <a href="https://www.youtube.com/@KevinPowell/playlists">Kevin Powell</a>. It came out in 2024, so it's got all the modern tools that make CSS layout much more user-friendly and flexible than it was even a few years ago.</p>
+        <p>It does require an email to log in, but it's 100% free and receiving email is opt-in (and not very spammy even if you do).</p>
+    </dd>
 </dl>
+<p>More suggestions welcome as you find them!</p>
 
 ## Options for publishing to the web
 
@@ -203,6 +215,8 @@ For a low-barrier entree into GitHub Pages, I recommend [Open Fuego](https://ope
 <details class="no-print"><summary>Check out the 3-minute OpenFuego tutorial to learn more.</summary>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QzMJtLUncIg" title="Open Fuego Webtext Generator (3-min tutorial) via YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
+
+For a more detailed entree into web design with HTML and CSS, see <a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners">HTML & CSS for absolute beginners</a>, also described above. 
 
 
 ### How to hide your website from search engines
