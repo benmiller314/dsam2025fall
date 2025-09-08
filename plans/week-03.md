@@ -246,9 +246,9 @@ Then **click commit**.
 
 Working on your own, it's enough that you commit. Working with others involves little more push and pull.
 
-To <dfn>push</dfn> your changes means to upload them to the cloud, in a place where others can find them. (NB: you can only do this if you first publish your repository - which you may have noticed GH Desktop encouraging you to do. I'll leave it up to you to decide if the repo you just made is one you want to publish.)
+* To <dfn>push</dfn> your changes means to upload them to the cloud, in a place where others can find them. (NB: you can only do this if you first publish your repository - which you may have noticed GH Desktop encouraging you to do. I'll leave it up to you to decide if the repo you just made is one you want to publish.)
 
-To <dfn>pull</dfn>, naturally, is the opposite: to take changes that exist online and sync them to your local machine.
+* To <dfn>pull</dfn>, naturally, is the opposite: to take changes that exist online and sync them to your local machine.
 
 In both cases, what's moving are the _committed changes_, because it's not just the file's current state that's being updated: it's the full _history_ of the entire repository. For that reason, push and pull require that the local and remote repositories are linked: in git-speak, they are _clones_ of each other.  
 
@@ -264,7 +264,10 @@ Given a public repo, we can...
 
 Have a look around. Anything else you notice about GitHub's web interface vs. the GH Desktop app interface?
 
-EXT: Make your own copy of the project – fork, clone, or download – and begin reading and editing the `index.html` file with your text editor. If you did the simple download but want to track your changes, you can use GH Desktop to Create New Repository in the unzipped folder. (Or you could use command line git...)
+#### EXT: Studio time
+Make your own copy of the project – fork, clone, or download – and begin reading and editing the `index.html` file with your text editor.
+
+If you did the simple download but want to track your changes, you can use GH Desktop to Create New Repository in the unzipped folder. (Or you could use [command line](../resources#cli-tutorial) `git init`...)
 
 
 ## For week 4 {#hw}

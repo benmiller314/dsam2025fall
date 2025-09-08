@@ -190,7 +190,7 @@ In this section, I want to add tutorials for acquiring digital competencies that
 
         <p>And I've just discovered an interactive tutorial that makes it pretty quick to learn: check out <a href="https://regexlearn.com/">https://regexlearn.com/</a>. You might just <a href="https://xkcd.com/208/" title="xkcd is by Randall Munroe, and is licensed under CC-BY-NC-2.5.">feel like a superhero</a>.</p>
     </dd>
-    <dt><a href="https://humanitiesprogramming.github.io/resources/command-line-tutorial/">Introduction to Command-Line Interface (CLI)</a></dt>
+    <dt id="cli-tutorial"><a href="https://humanitiesprogramming.github.io/resources/command-line-tutorial/">Introduction to Command-Line Interface (CLI)</a></dt>
     <dd>
         <p>Most of the time, we interact with computers by moving a pointer, clicking a mouse, working with windows and icons and buttons. But pretty much everything you do with a mouse, you can also do with typed commands. In fact, you can do more: lot of DH tools are accessible only from this <em>command line</em>, or <em>terminal</em>, because it allows you to run scripts directly from files (and because programming pretty interfaces adds a whole extra layer of complication for the tool-builder).</p>
         <p>I think of it kind of like going backstage, to where all the pulleys and counterweights are accessible... but where it's also kind of dark.</p>
@@ -216,7 +216,7 @@ For a low-barrier entree into GitHub Pages, I recommend [Open Fuego](https://ope
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QzMJtLUncIg" title="Open Fuego Webtext Generator (3-min tutorial) via YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
 
-For a more detailed entree into web design with HTML and CSS, see <a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners">HTML & CSS for absolute beginners</a>, also described above. 
+For a more detailed entree into web design with HTML and CSS, see <a href="https://learn.kevinpowell.co/course/html-css-for-absolute-beginners">HTML & CSS for absolute beginners</a>, also described above.
 
 
 ### How to hide your website from search engines
