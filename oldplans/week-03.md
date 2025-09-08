@@ -118,9 +118,10 @@ Let's just save at least 15 minutes to write and share notes, starting at around
 After a few minutes, I'll ask everyone to share one thing, to which the only response will be "thank you."
 
 
-## Break (10 min)
-Assuming we left off at 10:25, let's aim to start up again at 10:35. That should beat the elevator rush for 11am classes while still giving us a good hour to discuss the readings.
-
+<section class="break">
+    <h2>Break (10 min)</h2>
+    Assuming we left off at 10:25, let's aim to start up again at 10:35. That should beat the elevator rush for 11am classes while still giving us a good hour to discuss the readings.
+</section>
 
 ## Second half: Getting to know Git(Hub) {#second-half}
 
