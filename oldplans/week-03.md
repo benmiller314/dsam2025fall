@@ -21,6 +21,13 @@
             <li>a <a href="{{site.repo_url}}/discussions/2">reader-response post</a>, also to the discussion forum, focusing our attention somewhere in the readings</li>
         </ul>
     </details>
+    <details><summary><strong>Software to set up</strong></summary>
+        <ul>
+            <li>Install a <em>plain-text editor</em> if you don't already have one: <a href="https://pulsar-edit.dev">Pulsar</a> or <a href="https://code.visualstudio.com">Visual Studio Code</a></li>
+            <li>Create an account at <a href="https://github.com">GitHub</a></li>
+            <li>Install <a href="https://desktop.github.com">GitHub Desktop</a></li>
+        </ul>
+    </details>
 </section>
 
 ## Plan for the day:
@@ -31,11 +38,9 @@
     - Grok-writing (~15 min)
 * Break (10 min)
 * [Second half](#second-half): Getting to know GitHub (75 min)
-    - Exigence (~5 min)
-    - Affordances (~10-15 min)
-    - Version control in action (~20-25 min) <!-- key terms: repository, commit, fork, clone -->
-    - Your turn (~20-25 min)
-    - Debrief (~5 min)
+    - Affordances
+    - Repositories
+    - Commits  
 * HW for next time (~5 min)
 
 
@@ -84,7 +89,8 @@ I will also briefly introduce our special guest, Dr. Alison Langmead! Alison wea
 
 I'm open to other ideas, questions, and curiosities!
 
-Let's just save at least 15 minutes to write  and share notes, plus an extra five for me to introduce the homework. So let's say we'll end discussion by 11:30.
+Let's just save at least 15 minutes to write and share notes, starting at around 10:10 or 10:15.
+
 
 ### Writing to remember
 
@@ -99,99 +105,170 @@ After a few minutes, I'll ask everyone to share one thing, to which the only res
 Assuming we left off at 10:25, let's aim to start up again at 10:35. That should beat the elevator rush for 11am classes while still giving us a good hour to discuss the readings.
 
 
-## Second half: Getting to know GitHub {#second-half}
+## Second half: Getting to know Git(Hub) {#second-half}
 
-### Exigence (~5 min)
-<!-- I'd like to continue our conversation about what "digital" affords by thinking about reproduction, circulation, iteration, and difference detection. And we'll do it in the context of a slightly longer intro to GitHub than we achieved in [week 1](week-01).
- -->
 In his [manifesto](https://kairos.technorhetoric.net/20.2/inventio/stolley/#manifesto), Karl Stolley elevates Version Control to a key principle for digital production: "Always. Everywhere. For everything."
 
-So: what _is_ version control?
+> Next to the plain-text editor, there is no more important piece of software in a lo-fi stack than a version control system. It is the piece that makes experimentation possible, reduces the friction of collaboration across time, space, and platforms, and makes learning and the sorely lacking component of revision a central part of digital production.
 
-And what does it have to do with what we discussed [last time we met](week-01#part-2-digital), about the affordances or properties of digital media?
+So far so good! But I suspect this whole section might be a little COIK: clear only if known.
+<!-- Quick show of hands: who's used git or github before? -->
 
-Let's try to use the shared notes doc where we can: [bit.ly/dsam{{site.course.slugterm}}-notes](https://bit.ly/dsam{{site.course.slugterm}}-notes#heading=h.l3atecaufpnh).
+So today I want to make sure you all get at least a taste of what git can do.
 
-<aside class="alert alert-info">Side note: <em>exigence</em>, i.e. why we're talking about what we're talking about, is one element of the <a href="https://en.wikipedia.org/wiki/File:Rhetorical_situation_triangle.jpeg">rhetorical situation</a>: a way of theorizing what writers and speakers consider in deciding what to say or write.</aside>
 
-### Affordances (~10-15 min)
 
-<div class="alert alert-success">
-Let's check out the GitHub.com web interface, and see how it works: come with me to
-<strong><a href="https://github.com/benmiller314/text-demo">https://github.com/benmiller314/text-demo</a></strong>
+<!-- <aside class="alert alert-info">Side note: <em>exigence</em>, i.e. why we're talking about what we're talking about, is one element of the <a href="https://en.wikipedia.org/wiki/File:Rhetorical_situation_triangle.jpeg">rhetorical situation</a>: a way of theorizing what writers and speakers consider in deciding what to say or write.</aside> -->
+
+### GitHub Desktop: a <dfn title="graphic user interface">GUI</dfn> <dfn title="version control system">VCS</dfn>
+
+I'd asked you all to install this app, which should automatically also download its <dfn>dependencies</dfn>, i.e. the other programs required for it to work.
+
+I'm going to do a little demo, and I'd like you to follow along. (If you had to miss class, or you want to go over it again, there's a [walkthrough on docs.github.com](https://docs.github.com/en/desktop/overview/creating-your-first-repository-using-github-desktop) that covers some of the same ground.)
+
+#### 1. First impressions
+
+<details><summary>First, let's open the app.</summary>
+<p>If you get an error message that it's "not trusted", don't worry: it is. It's just not in your app store. Right-click and select Open > Open Anyway to get around the barrier.</p>
+</details>
+
+<div class="panel panel-alert alert alert-success">
+<div class="panel-body alert-body">
+    <p>Initial questions to ask of any interface:
+        <ul>
+            <li>How is the space laid out?</li>
+            <li>What's given the most prominent visual focus? Secondary focus?</li>
+            <li>What features/tools do you have quick access to?</li>
+        </ul>
+    </p>
+    <p>In other words: what functions or actions are <dfn>afforded</dfn> by this interface? What does it seem to expect you to be looking for? What does it seem to expect you to <em>do</em>?</p>
+</div>
 </div>
 
-Initial questions to ask of any app:
 
-- How is the space laid out?
-- What's given the most prominent visual focus? Secondary focus?
-- What features/tools do you have quick access to?
+#### 2. Initiate a new repository
 
-In other words: what functions or actions are _afforded_ by this interface? What does it seem to expect you to be looking for? What does it seem to expect you to do?
+<!-- <div class="panel panel-alert alert alert-info">
+    <div class="panel-body alert-body">
+Do you know where to do that? How can you figure it out? (Think back to those questions from above: what does the interface give you quick access to?)
+ </div></div> -->
+<details><summary>Show me</summary>
+    If you don't see a button, you can use the menu: File > New (or the shortcut you see there) should work.
+</details>
 
-Key terms to understand from this section:
+A <dfn>repository</dfn>, often abbreviated to _<abbr>repo</abbr>_, is just a fancy way of saying a _folder_. It's a bunch of files. It can have subfolders inside it. By calling it a repo, we're saying it's a folder we want to pay attention to: a folder we want to track.
 
-* repository / repo
-* README
-* .md
-* affordance
+To confirm that, let's look at the repo we just created from another vantage point: in Explorer (for Windows users) or, equivalently, in Finder (for Mac users). Conveniently, GH Desktop gives us a shortcut.
+
+<figure>
+    <img src="../assets/img/github-desktop--show-in-finder.png" alt="open in finder, using the button or the 'repository' menu">
+    <figcaption>If the button isn't visible, you should still be able to find it in a menu.</figcaption>
+</figure>
 
 
-### Version control in action (~20-25 min)
+#### 3. In the text editor
+And now let's take another view: let's open it in a <em>text editor</em>. This is another of those digital tools Stolley was extolling. There are lots of good ones: I recommended either <a href="https://pulsar-edit.dev">Pulsar</a> or <a href="https://code.visualstudio.com">Visual Studio Code</a> (VSCode for short). They'll have slight differences, but both are full-featured, extensible tools for all kinds of text manipulation, from basic note-taking to programming.
 
-Following along in the same text-demo repo, let's make some changes – first online, and then offline with GitHub Desktop and a text editor.
+First, notice: we can see the same files as before.
 
-Key terms to understand from this section:
+But also, now, we can edit them. Let's do it! Please follow along with your own content.
 
-* commit
-* commit message
-* hash
-* diff
-* clone
-* pull
-* push
-* EXT:
-    - pull request
-    - branch
 
-EXT: If we're okay on time (if it's before, say, 9:45), I'd love to decompress a .docx file to show you why it's not as simple as it may seem.
+* Open the README
+    - Make a change
+    - Save it
 
-### Your turn (~20-25 min)
+<div class="panel panel-alert alert alert-info">
+    <div class="panel-body alert-body">
+    Did you notice how the editor signals that the file has unsaved changes? If not, make another change (or undo your previous one) and look carefully.
+</div></div>
 
-Now that you've seen me do it, it's your turn to try! There's a new repository with instructions: <a href="https://github.com/benmiller314/dsam-gh-practice">github.com/benmiller314/dsam-gh-practice</a>.
+* Create a new file
 
-In addition to practicing with GitHub, I have a little writing prompt to help us continue thinking about what changes when "digital" gets involved.
+<div class="panel panel-alert alert alert-info">
+    <div class="panel-body alert-body">
+Do you know where to do that? How can you figure it out? (Think back to those questions from above: what does the interface give you quick access to?)
+</div></div>
 
-<div class="alert alert-success">
-After reading through the README, the first step will be to <strong>fork</strong> the repo. Then you can clone it, write and edit locally, and push your changes back up to the cloud.
-</div>
+* In the new file, **write a version of the question you want to pursue for your DSAM project this term.** It doesn't need to be long.
+    - If you've already met with me, you might already have this ready to go!
+    - If not, don't worry: take a minute now to think about it. Whatever you come up with is a worthwhile draft.
 
-**NB:** For this exercise you can work alone or in pairs.
+* When you've reached a stopping point, save the file.
+    - NB: this means you need to give it a name! And also (usually) a <dfn>file extension</dfn>: that short ending like `.md` or `.txt` or `.html` that will tell the computer how to interpret this text.
 
-### Debrief
+We've already seen `.md` on the README file: it signals that the file is formatted in <dfn>Markdown</dfn>, the shorthand markup language you used in your discussion board posts. It's often a good way to go to build in structure and formatting.
 
-Let's aim to come back together at around 10:10 or so.
+The plain text file (`.txt`) doesn't use formatting or encode any stylistic transformations: what you see is what you get. If you add no extension to the filename, generally speaking the computer will treat it as plain text.
 
-How did it go? Any tips, tricks, or reminders you want to get in the [notes doc](https://bit.ly/dsam{{site.course.slugterm}}-notes)?
+
+
+#### 4. Back to GH Desktop
+
+What's changed? What's given prominent attentional weight now? What is the app encouraging you to think about, or do?
+
+In other words, what new affordances are present now that weren't here before?
+
+<details><summary>What git does – and how we can help it help us</summary>
+    <p>Git pays attention to <em>changes in files</em> saved within the repo. You can make any changes you'd like, and when you've reached a stopping point, you can <strong><dfn>commit</dfn></strong> those changes to the repo's history: it's kind of like an especially saved save. Once you've made a commit, you can later travel back to that moment from the project's past. If the file types are simple enough (text or image), you can even see the before-and-after, which git calls <dfn>diffs</dfn>.</p>
+
+    <p>Each commit has a machine-meaningful <dfn>hash</dfn> associated with it – a long string of letters and numbers, derived from the contents of the files – numerical representation, remember? – so each commit hash is essentially unique. But these hashes not very meaningful to humans! So every time you commit, you're prompted to also write a short <dfn>commit message</dfn> summarizing what's changed in that commit – or, perhaps, a reminder of what you want to do next.</p>
+
+    <p>It's a good practice to <strong>make your commit messages meaningful</strong>: "draft 12" isn't much more informative than "h6287c", though I suppose both are better than the default: "file changed." We can improve on that, I hope!</p>
+</details>
+
+Once we've discussed what it means and why, go ahead and **write a commit message for the changes you've made so far.** The top line is like the subject line of an email; it has a character limit. The bottom box is like the contents, and can be as long as you want.
+
+Then **click commit**.
+
+* What happens to your files?
+* What happens to your commit message?
+
+#### 5. Solo vs. social
+
+Working on your own, it's enough that you commit. Working with others involves little more push and pull.
+
+To <dfn>push</dfn> your changes means to upload them to the cloud, in a place where others can find them. (NB: you can only do this if you first publish your repository - which you may have noticed GH Desktop encouraging you to do. I'll leave it up to you to decide if the repo you just made is one you want to publish.)
+
+To <dfn>pull</dfn>, naturally, is the opposite: to take changes that exist online and sync them to your local machine.
+
+In both cases, what's moving are the _committed changes_, because it's not just the file's current state that's being updated: it's the full _history_ of the entire repository. For that reason, push and pull require that the local and remote repositories are linked: in git-speak, they are _clones_ of each other.  
+
+You can only push to, and pull from, a repo that you control. But one of the main reasons to publish your repo is to collaborate – or, at least, to borrow and adapt someone else's files to your own needs, even if you're not contributing back to the public source. So GitHub gives us options to get in on the action.
+
+**Have a look at [https://github.com/benmiller314/Electrate-Fuego](https://github.com/benmiller314/Electrate-Fuego).** This is a copy of my colleague Stephen Quigley's DH project for helping people learn HTML and CSS by poking around and modifying the code of an existing website.
+
+Given a public repo, we can...
+
+- <dfn>fork</dfn> it, creating a linked copy we control (That's what I did here. Do you see where the links point back to the original?)
+- <dfn>clone</dfn> it, downloading the full contents and all the file history
+- or just _download_ the contents as a `.zip` archive. This strips out the history, but means we could also start over clean in an unlinked repo if we want.
+
+Have a look around. Anything else you notice about GitHub's web interface vs. the GH Desktop app interface?
+
+EXT: Make your own copy of the project – fork, clone, or download – and begin reading and editing the `index.html` file with your text editor. If you did the simple download but want to track your changes, you can use GH Desktop to Create New Repository in the unzipped folder. (Or you could use command line git...)
 
 
 ## For week 4 {#hw}
 
 In additions to the readings below and your own ongoing [Mindful Practice Journals](../projects#mindful-practice-journals) as you begin work on your semester-long projects, I'll also ask you to **write** a brief post to the [discussion forum](https://github.com/benmiller314/dsam{{site.course.slugterm}}/discussions/), to give you a chance to think in writing about the readings and to seed our in-class conversation.
 
-But first, please **read** <span title="It may look like a lot, but without EXTs it's the equivalent of only about 72 pages. EXTs push that up to 118.">the following</span>.
+### Shared readings
 
-* D’Ignazio, Catherine, and Lauren F. Klein. <em>Data Feminism</em>, MIT Press, 2020. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
-    - “Introduction: Why Data Science Needs Feminism.” pp. 1–19.
-    - "4. 'What Gets Counted Counts.' " pp. 97-124.
-* Onuoha, Mimi. On Missing Data Sets. 2016. 16 July 2024. GitHub, <a href="https://github.com/MimiOnuoha/missing-datasets">https://github.com/MimiOnuoha/missing-datasets</a>.
-* Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” <em>Journal of Digital Humanities</em>, Nov. 2013, <a href="https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/">https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/</a>.
-* Ghorayshi, Azeen. “No One Knows How Many L.G.B.T.Q. Americans Die by Suicide.” <em>The New York Times</em>, 1 June 2023. NYTimes.com, <a href="https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html">https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html</a>.
+Without EXTs, this adds up to 96 page-equivalents; adding all the EXTs would roughly double it, to 181.
 
-and **watch**:
 
-* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” <em>What Are Digital Humanities?</em>, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
+* Ford, Paul. <em>What Is Code? If You Don’t Know, You Need to Read This</em>, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>.
+    - Section 1, starting with "The Man in the Taupe Blazer," ending (ironically enough) at Section 2: "Let's Begin."
+    - Don't miss the video. :)
+    - EXT: If you have just a few extra minutes, I highly recommend section 2.3: "How Does Code Become Software?" and 2.4: "What Is an Algorithm?"
+* Vee, Annette. “Introduction: Computer Programming as Literacy.” <em>Coding Literacy</em>, MIT Press, 2017, pp. 1–42, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.  <a href="https://direct-mit-edu.pitt.idm.oclc.org/books/monograph/3543/Coding-LiteracyHow-Computer-Programming-Is">(Pitt library link)</a>.
+* Bertram, Lillian-Yvonne, <a href="https://www.lillianyvonnebertram.com/">https://www.lillianyvonnebertram.com/</a>. Read around in Projects, especially "Forever Gwen Brooks," "Syncopated Star," and "I dream of creating an intelligent machine".
+    - Look up how to "View Page Source" using your preferred browser. Then view page source on each of these projects.
+* Whalen, Zach. “Any Means Necessary to Refuse Erasure by Algorithm: Lillian-Yvonne Bertram’s Travesty Generator.” <em>Digital Humanities Quarterly</em>, vol. 017, no. 2, July 2023, <a href="https://digitalhumanities.org:8081/dhq/vol/17/2/000707/000707.html">https://digitalhumanities.org:8081/dhq/vol/17/2/000707/000707.html</a>.
+* Montfort, Nick, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter. “10: Introduction.” _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_, The MIT Press, 2012, pp. 1–17. direct.mit.edu, <a href="https://doi.org/10.7551/mitpress/9040.001.0001">https://doi.org/10.7551/mitpress/9040.001.0001</a>.
+* Montfort, Nick. "Appendix A: Why Program?" <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 319–330, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/319">https://mitpress.ublish.com/ebook/epah2e-preview/12629/319</a>.
 
-EXT for eager readers:
-- D’Ignazio and Klein. "3. On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." <em>Data Feminism</em>, MIT Press, 2020. pp. 73-96.
-- Drucker, Johanna. “Humanities Approaches to Graphical Display.” <em>Digital Humanities Quarterly</em>, vol. 005, no. 1, Mar. 2011, <a href="http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html</a>.
+* EXT for eager readers:
+    - The rest of Ford's <em>What is Code?</em> – but be warned, it's less like a magazine article than it is like the full magazine, or short book. It's great! Just... don't expect to be done after 20 minutes. Or an hour.
+    - Miller, Benjamin. “Chapter 17: The Pleasurable Difficulty of Programming.” <em>Methods and Methodologies for Research in Digital Writing and Rhetoric: Centering Positionality in Computers and Writing Scholarship</em>, Volume 2, edited by Victor Del Hierro and Crystal VanKooten, The WAC Clearinghouse; University Press of Colorado, 2022, pp. 159–83. <a href="https://doi.org/10.37514/PRA-B.2022.1664.2.17">https://doi.org/10.37514/PRA-B.2022.1664.2.17</a>. (<a href="https://wac.colostate.edu/docs/books/positionality/chapter17.pdf">Direct link to chapter PDF</a>.)
