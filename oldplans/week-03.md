@@ -35,7 +35,7 @@
 * [First half](#first-half): Learning, Openness, Flexibility, Iteration (80 min)
     - Welcoming new people (5 min)
     - Discussion of readings, using your posts as jumping off points (~60 min)
-    - Grok-writing (~15 min)
+    - Writing to Remember (~15 min)
 * Break (10 min)
 * [Second half](#second-half): Getting to know GitHub (75 min)
     - Affordances
