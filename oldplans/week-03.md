@@ -251,11 +251,23 @@ EXT: Make your own copy of the project – fork, clone, or download – and be
 
 ## For week 4 {#hw}
 
-In additions to the readings below and your own ongoing [Mindful Practice Journals](../projects#mindful-practice-journals) as you begin work on your semester-long projects, I'll also ask you to **write** a brief post to the [discussion forum](https://github.com/benmiller314/dsam{{site.course.slugterm}}/discussions/), to give you a chance to think in writing about the readings and to seed our in-class conversation.
+### Should we divide response post responsibility?
+<div class="panel panel-warning alert alert-success">
+    <div class="panel-body alert-body">
+        Reflecting on the reading responses and the size of the class, I'd like to propose a change to the reading response assignment – if you agree. I think we might ask <em>just half the class</em> to post online each week. The other half would lead discussion when we get back. And we'd switch back and forth for each set of readings.
+</div></div>
+
+For example, this week, Tunga, Rose, John, Scylla, and Li had all posted by Friday before class. So we could say they're "Group 1." That would leave Yanni, Namrata, Amrita, Yixuan, and Yuqing as "Group 2."
+
+We could even have people sign up to take the lead on a particular text, so you're more likely to have thoughts - and less likely to have decision paralysis about where to start - by Friday.
+
+You're always welcome to post whenever you want to! I was just thinking in terms of clearing our minimum bar.
+
+What do you think?
 
 ### Shared readings
 
-Without EXTs, this adds up to 96 page-equivalents; adding all the EXTs would roughly double it, to 181.
+Without EXTs, this adds up to 96 page-equivalents; adding *all* the EXTs would roughly double it, to 181. There are also intermediate options.
 
 
 * Ford, Paul. <em>What Is Code? If You Don’t Know, You Need to Read This</em>, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>.
