@@ -1,6 +1,6 @@
 
-# Week 3: GitHub, versioning, circulation
-<span class="date">September 9, 2024</span>
+# Week 3: Iteration + Inquiry
+<span class="date">September 8, 2025</span>
 
 <section class="prereqs">
     <details><summary><strong>Texts to have read / watched</strong></summary>
