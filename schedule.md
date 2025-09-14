@@ -97,7 +97,7 @@ and (b) **read**:
     - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
     - Risam, Roopika. Digital Humanities for a World Unmade. <a href="https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade">https://roopikarisam.com/talks-cat/dh2025-keynote-digital-humanities-for-a-world-unmade/</a>. DH2025 Keynote.
 
-<a id="current"></a>
+
 ### [Week 03: Mon, Sep 08](plans/week-03) – Inquiry + Iteration {#week-03}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please check the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -118,7 +118,7 @@ and **read**:
     - Stolley's notes on his earlier draft, "[Lo-Fi Manifesto, v 1.2](https://kairos.technorhetoric.net/20.2/inventio/stolley/1.2)"
     - Miller, Benjamin. “What’s the Diff? Version History and Revision Reflections.” <em>Writing Spaces</em>, vol. 5, 2023, <a href="https://parlormultimedia.com/writingspaces/whats-the-diff-version-history-and-revision-reflections/">https://parlormultimedia.com/writingspaces/whats-the-diff-version-history-and-revision-reflections/</a>. (NB: This is written for an audience of first-year undergraduates.)
 
-
+<a id="current"></a>
 ### [Week 04: Mon, Sep 16](plans/week-04) – Code + Comments {#week-04}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
