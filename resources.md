@@ -258,6 +258,9 @@ Especially in the realm of digital production, there's no need to reinvent the w
 <p>Full citation: Mattingly, William. <em>Introduction to Python for Digital Humanities</em>, 2022. python-textbook.pythonhumanities.com.</p>
 </dd>
 
+<dt><a href="https://dev.to/colin-williams-dev/purposeful-programming-languages-non-english-syntaxes-3ib1">Non-English Coding Syntaxes</a></dt>
+<dd>In this post from 2023 on the software developer blog site dev.to, author colin-williams-dev notes the Anglocentric history of programming languages – and then describes a few exceptions, including in Arabic and classical Chinese as well as a localizable system, <a href="https://citrine-lang.org/">Citrine</a>, that compiles into 110 base languages and growing. You can find the list of languages and instructions for translating (where else?) <a href="https://github.com/gabordemooij/citrine/tree/master?tab=readme-ov-file">on GitHub</a>.</dd>
+
 <dt><a href="https://praxis.technorhetoric.net/tiki-index.php">Kairos PraxisWiki</a></dt>
 <dd>Again to quote their own framing paragraph, "PraxisWiki is a section of <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em> that publishes webtexts exploring the intersections and tangents of digital writing and pedagogy." All the texts here are peer-reviewed by the editorial board, and they address teaching-adjacent projects that include how-to guides for setting up data visualizations and wikis, practitioner reflections on digital composing tools and systems, and reusable assignments you can try yourself. </dd>
 
