@@ -179,6 +179,13 @@ dfn {
 	font-weight: 600;
 }
 
+
+[title] {
+	cursor: help;
+}
+
+/* TO DO: make dfn titles accessible by styling them to invite interaction, giving them some clickable role (button?) and enhancing with JavaScript as per https://inclusive-components.design/tooltips-toggletips/ */
+
 /* Header spacing */
 
 body.thin_header {
