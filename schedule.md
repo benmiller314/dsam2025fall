@@ -145,10 +145,10 @@ For week 05, [prepare a 5-minute presentation](projects#presentations-and-peer-r
 
 For this iteration, you should be able to answer the following:
 
-* What sources / objects are you working with? How are they stored?
-* What questions do you have about these sources?
-* What are your long-term goals in working with these sources?
-* What are your next steps?
+* What _sources / objects_ are you  working with? How are they stored?
+* What _questions_ do you have about these sources? What are your long-term goals in working with these sources?
+* How's it going so far? Show us (briefly) what you've got!
+* What are your next steps, or questions for us?
 
 *Post your presentation files, along with a link to your developing public-facing project, to the [discussion forum]({{site.repo_url}}/discussions).*
 
