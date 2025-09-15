@@ -119,6 +119,7 @@ After a few minutes, I'll ask everyone to share one thing, to which the only res
 
 <ol>
     <li>Go to <a href="https://codeberg.org/nickmontfort/memslam/src/branch/main/the_house_of_dust.html">Montfort's source code for The House of Dust</a>. Click the download button and save it somewhere you'll find it easily.</li>
+    <!-- For fun, here's [Zach Whalen's implementation](https://zachwhalen.net/pg/dust/), which spreads the scripts across several files. We can talk about why, but we don't have time today.-->
     <li>Double-click the file. Where does it open? Is this opening locally or remotely? How do you know?</li>
     <li>After watching for a while, leave it open but open the file a second time, now in your text editor (Pulsar or VS Code). See if you can... <ol class="lalpha">
         <li>Make the poem update faster.</li>
