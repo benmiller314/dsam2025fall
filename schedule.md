@@ -118,7 +118,7 @@ and **read**:
     - Stolley's notes on his earlier draft, "[Lo-Fi Manifesto, v 1.2](https://kairos.technorhetoric.net/20.2/inventio/stolley/1.2)"
     - Miller, Benjamin. “What’s the Diff? Version History and Revision Reflections.” <em>Writing Spaces</em>, vol. 5, 2023, <a href="https://parlormultimedia.com/writingspaces/whats-the-diff-version-history-and-revision-reflections/">https://parlormultimedia.com/writingspaces/whats-the-diff-version-history-and-revision-reflections/</a>. (NB: This is written for an audience of first-year undergraduates.)
 
-<a id="current"></a>
+
 ### [Week 04: Mon, Sep 16](plans/week-04) – Code + Comments {#week-04}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -138,7 +138,7 @@ To prepare for week 04, **read**:
     - Miller, Benjamin. “Chapter 17: The Pleasurable Difficulty of Programming.” <em>Methods and Methodologies for Research in Digital Writing and Rhetoric: Centering Positionality in Computers and Writing Scholarship</em>, Volume 2, edited by Victor Del Hierro and Crystal VanKooten, The WAC Clearinghouse; University Press of Colorado, 2022, pp. 159–83. <a href="https://doi.org/10.37514/PRA-B.2022.1664.2.17">https://doi.org/10.37514/PRA-B.2022.1664.2.17</a>. (<a href="https://wac.colostate.edu/docs/books/positionality/chapter17.pdf">Direct link to chapter PDF</a>.)
 
 
-
+<a id="current"></a>
 ### [Week 05: Mon, Sep 23](plans/week-05) – Project presentations, iteration 1: Sources {#week-05}
 
 For week 05, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
