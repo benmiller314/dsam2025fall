@@ -164,9 +164,13 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
-Post **feedback for your partners** on their current project iteration as a reply to last week's [discussion forum]({{site.repo_url}}/discussions) post.
+Post **feedback for your assigned partners** on their current project iteration as a reply to last week's [discussion forum]({{site.repo_url}}/discussions) post.
 
-To prepare for week 06, please **read**...
+To prepare for week 06, please **watch**...
+
+* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
+
+...and **read**:
 
 * D’Ignazio, Catherine, and Lauren F. Klein. <em>Data Feminism</em>, MIT Press, 2020. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
     - “Introduction: Why Data Science Needs Feminism.” pp. 1–19.
@@ -176,9 +180,6 @@ To prepare for week 06, please **read**...
 * Cairo, Alberto. “5: Basic Principles of Visualization.” The Truthful Art: Data, Charts, and Maps for Communication, New Riders, 2016. learning.oreilly.com, <a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html">https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html</a>.
     - NB: to view the content, click "SIGN IN" at the top of the page, and begin logging in with your Pitt email address; you should then get the option to "Sign in with SSO" (single sign-on), which will take you to the Pitt Passport screen.
 
-...and **watch**:
-
-* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
 
 * EXT for eager readers:
     - Crawford, Kate, and Trevor Paglen. “Excavating AI: The Politics of Training Sets for Machine Learning.” 19 Sep 2019, <a href="https://excavating.ai">https://excavating.ai</a>.

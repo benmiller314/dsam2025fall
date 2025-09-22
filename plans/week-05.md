@@ -190,7 +190,7 @@ If by some luck we have extra time at the end of class, let's use it to begin yo
 
 There's feedback for your classmates, if we didn't get to it in class, and there's a new topic for next week: data + people.
 
-<details><summary>Your writing assignments, now sorted by writer rather than recipient</summary>
+<details open><summary>Your writing assignments, now sorted by writer rather than recipient</summary>
     <table class="table table-bordered table-striped">
         <thead>
             <tr>
