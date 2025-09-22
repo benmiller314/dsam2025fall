@@ -18,6 +18,7 @@ Table of contents:
 * [Text Editors](#text-editors)
 * [Transcription services](#transcription-services)
 * [Extraction services](#extraction-services)
+* [Data Visualization tools](#data-visualization-tools)
 * [Digital Literacies Tutorials](#digital-literacies-tutorials)
 * [Options for publishing to the web](#options-for-publishing-to-the-web)
     - [How to hide your website from search engines](#how-to-hide-your-website-from-search-engines)
@@ -175,6 +176,25 @@ In some ways the opposite of transcription, these are tools that will help you r
     <dd>DSS offers help with many things DSAM-related, but one of them is a dedicated <abbr title="Optical Character Recognition" aria-label="Optical Character Recognition">OCR</abbr> workstation in Hillman Library preloaded with ABBYY FineReader. You can walk up to the station, or reserve ahead of time to make sure it'll be available.</dd>
 <dt><a href="https://www.handwritingocr.com/">HandwritingOCR</a></dt>
     <dd>This is a <em>paid</em> service that uses a privacy-law-compliant AI trained on public domain and licensed datasets to convert images of writing – especially but not exclusively handwritten – to structured digital text. Recommended by Reddit user <a href="https://www.reddit.com/user/mcw1980/">mcw1980</a> after a fairly extensive <a href="https://www.reddit.com/r/computervision/comments/1ctf0jh/2024_review_of_ocr_tools_extracting_text_from/?rdt=38422">test of competing services</a> as of May 2024. Should work across a number of language groups, though I don't know how many mcw1980 tested. The pay-as-you-go cost in November 2024 was $12 for 100 pages.</dd>
+</dl>
+
+<a href="#top"><em>Back to top</em></a>
+
+## Data Visualization Tools
+
+Data visualization, as we'll discuss in class, compresses large quantities of information into a smaller space so as to amplify signals and detect trends. Here are some ways to go about it.
+
+<dl>
+    <dt><a href="https://www.rawgraphs.io/">RAW&nbsp;Graphs</a></dt>
+    <dd><p>In general, data visualization involves mapping some feature of your source material input (a particular variable or column in a table, say) to a feature of the graph output (length, height, area, color, etc). RAW&nbsp;Graphs provides you with a GUI to perform that mapping. What this means is that you can take any summary table of your data and try out different visualizations, rapidly iterating so you can see which chart type tells the clearest story. (You still have to make sure the visualization makes sense for the data, and you still have to pass data that's in the right shape for that visualization – in other words, you'll often want to summarize before visualizing, perhaps using something like a PivotTable.)</p>
+    <p>It's open source, so it's always free. And while it runs in your browser, it doesn't send your data anywhere: it's all handled "client-side," i.e. on your own computer.</p>
+    <p>Check out the learning library at <a href="https://www.rawgraphs.io/learning">https://www.rawgraphs.io/learning</a> for more on how to format your data and what graph types they offer. (It's a lot.)</p>
+    </dd>
+
+    <dt><a href="https://datawrapper.de">Datawrapper</a></dt>
+    <dd><p>Like RAW&nbsp;Graphs, Datawrapper helps you map features of your dataset to the features of output graphs. It also has a few extra tools particularly attuned to the needs of data journalism: it will prompt you, for instance, to compose a title, caption, and alt text, and to include a source citation to indicate what your figure is based on. It makes it easy to add annotations or to highlight one particular bar or line in the output that you want readers to focus on. And it has built-in colorblind checks. </p>
+    <p>Datawrapper doesn't include as big a range of chart types of RAW&nbsp;Graphs, but it does have some that RAW&nbsp;Graphs lacks, including a few simple map configurations (assuming you have geolocated data). I think it's worth having both in your toolkit!</p>
+    </dd>
 </dl>
 
 <a href="#top"><em>Back to top</em></a>
