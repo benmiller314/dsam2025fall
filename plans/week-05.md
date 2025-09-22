@@ -49,7 +49,7 @@ About that peer review: you'll each be responsible for **writing back to two of 
 
 * **Draw them out to find the way forward.** Help your partners see the next steps by asking follow-up questions about their sources or their process; by highlighting comparisons with other projects you've seen that might be good models (or useful foils); by suggesting tools, tutorials, or scholarship you think would be useful to bring in; and so on.
 
-* **Above all, be generous.** That doesn't mean only singing praises, though by all means do so when it feels genuine! You can be generously critical, as long as you're critically generous at the same time. Demonstrate your care and investment in each other's success, knowing that there's still more to do to get there. 
+* **Above all, be generous.** That doesn't mean only singing praises, though by all means do so when it feels genuine! You can be generously critical, as long as you're critically generous at the same time. Demonstrate your care and investment in each other's success, knowing that there's still more to do to get there.
 
 <div class="alert alert-info panel panel-info">
     <div class="alert-body panel-body">
@@ -72,7 +72,7 @@ I've split presentations in two sets of five, with peer reviews crossing from on
         <tbody>
             <tr>
                 <th scope="row">Tunga</th>
-                <td>1</td>
+                <td>3</td>
                 <td>Yanni</td>
                 <td>Namrata</td>
             </tr>
@@ -84,7 +84,7 @@ I've split presentations in two sets of five, with peer reviews crossing from on
             </tr>
             <tr>
                 <th scope="row">John</th>
-                <td>3</td>
+                <td>1</td>
                 <td>Amrita</td>
                 <td>Yixuan</td>
             </tr>
