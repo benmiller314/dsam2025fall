@@ -599,6 +599,15 @@ blockquote p.bq_cite {
 	font-style: italic;
 }
 
+/* Table styling -- mostly from Bootstrap */
+table:has(th[scope="row"]) th:first-child {
+    border-right: 2px solid #ccc;
+}
+
+table th[scope="col"] {
+    border-bottom: 2px solid #ccc;
+}
+
 
 /* Don't need button navigation
 @supports (scroll-snap-type) {
