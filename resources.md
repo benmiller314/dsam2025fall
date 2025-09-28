@@ -148,6 +148,20 @@ Table of contents:
 
 <a href="#top"><em>Back to top</em></a>
 
+## Presentation software
+
+There are lots of ways to present your work. You may already be familiar with PowerPoint or Google Slides, but here are some free and open source software (FOSS) alternatives:
+
+<dl>
+<dt><a href="https://sozi.guide/en/first-presentation.html">Sozi</a></dt>
+<dd>Feeling cramped by the slides? Want to show details and big picture and scale smoothly between them? Sozi allows you to declare "frames" within any scalable vector graphic (SVG file), and it outputs to HTML so you can display it in a standard web browser. Start in the middle, slide to the side, zoom in, zoom out, save some details for manual clicks and set others on an automatic path. Just don't spin too much or you'll make your audience motion-sick.</dd>
+</dl>
+
+Please suggest more as you find them...
+
+<a href="#top"><em>Back to top</em></a>
+
+
 ## Transcription services
 
 If you're recording video, whether for your projects or for in-class presentations, it's a good idea to produce a text-only version as well. Not only will this help non-sighted people access your work, but it will also help enable search and improve <abbr title="search engine optimization" aria-label="Search Engine Optimization">SEO</abbr>.
