@@ -32,7 +32,7 @@
     - Reflective writing: the Socio-Technical Sustainability Roadmap (in miniature)
     - Project studio (and mini-conferences)
 * [Homework for next time](#hw):
-    - Time + Space
+    - Time + (especially) Space
 
 
 ## First half: Let's discuss! {#first-half}
@@ -71,6 +71,15 @@ Of the many visualizations or figures you've seen in the last two weeks, what st
     <p>Ensmenger's "The Cloud is a Factory" is not computational: it's not underwritten by a relational database or engaged in replicable visualization techniques. But nevertheless, I would argue it's very much a digital humanities project. How do you understand the work he's doing here?</p>
     <p>If it's helpful, here's a sample passage:</p>
     <blockquote>All of this is to establish that it is impossible to understand the emergence of the modern information society without reference to the larger history of industrialization. Why is this significant? Because industrialization is fundamentally as much a social and political project as it is technological or economic. The ostensible driving force behind industrialization is the pursuit of efficiency, but the actual history of how, when, and why certain economic sectors chose to industrialize suggests otherwise. New techniques and technologies do not emerge out of nothing to revolutionize work practices; they are designed explicitly to do so. Machines are designed by humans to accomplish human agendas, and as such it is essential to always ask why industrialization is happening, to what ends, and for what purposes. (43)</blockquote>
+</details>
+
+<details><summary>the cloud is here. what follows?</summary>
+    <p>Rose draws our attention to some of the takeaways at the end of Ensmenger's "The Cloud is a Factory" and brings them into a particularly local context: Pittsburgh's historical access to the things that attract factories, including digital ones. Starting in the middle of her quoted passage:</p>
+    <blockquote>
+        <blockquote>When Amazon recently encouraged cities to bid for the privilege of hosting their “second headquarters,” they were clearly pushing for those cities with well-established physical and social infrastructures: housing, highways, schools, restaurants, and recreational facilities. When Microsoft or Facebook looks to locate a new data center, they require easy access to inexpensive electricity, a plentiful water supply, and an appropriately skilled labor force. It is any surprise that these data centers are often located in the same places that housed industrial-era factories just a generation ago?" (Ensmenger 43–44)</blockquote>
+        <p>This made me wonder about Pittsburgh as a location for the Cloud Factories, as one of these places that used to house industrial-era factories. I remember Alison mentioning the construction of new data centers in Pennsylvania, which led me to find <a href="https://www.datacentermap.com/usa/pennsylvania/">this interactive map</a> (an interesting data visualization in its own right) that shows their locations across the state.</p>
+        <p>I wanted to adjust Ensmenger's question: <strong>with this sense of geographical closeness, how can we more accurately depict the Cloud as a factory in our digital work at the University of Pittsburgh, and not as a disembodied computational device?</strong></p>
+    </blockquote>
 </details>
 
 
