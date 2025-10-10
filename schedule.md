@@ -225,6 +225,7 @@ To prepare for week 08, please **read**:
 
 * EXT for eager readers:
     - Carroll, Allen, and the Esri StoryMaps team. “Nine Steps to Great Storytelling.” ArcGIS StoryMaps, 3 July 2025, <a href="https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407">https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407</a>.
+    - Cairo, Alberto. "8: Revealing Change." _The Truthful Art: Data, Charts, and Maps for Communication._ [https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch08.html](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch08.html)
 
 
 
