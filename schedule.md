@@ -159,7 +159,7 @@ NB: _Bring your own dongle_, if you need one.
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 
-<a id="current"></a>
+
 ### [Week 06: Mon, Sep 29](plans/week-06) – Data + People {#week-06}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -211,7 +211,7 @@ To prepare for week 07, please **watch / read**:
     - Crump, Jon. “Generating an Ordered Data Set from an OCR Text File.” <em>Programming Historian</em>, Nov. 2014. programminghistorian.org, <a href="https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file">https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file</a>.
 
 
-
+<a id="current"></a>
 ### [Week 08: Mon, Oct 13](plans/week-08) – Space + Time {#week-08}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
