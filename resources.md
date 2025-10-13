@@ -16,6 +16,7 @@ Table of contents:
 * [Help with Git and GitHub](#help-with-git-and-github)
     - [Dealing with Large Files (including how to shrink images)](#dealing-with-large-files)
 * [Text Editors](#text-editors)
+* [Presentation Software](#presentation-software)
 * [Transcription services](#transcription-services)
 * [Extraction services](#extraction-services)
 * [Data Visualization tools](#data-visualization-tools)
