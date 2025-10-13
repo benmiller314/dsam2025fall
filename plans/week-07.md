@@ -13,7 +13,7 @@
             </li>
             <li>Cairo, Alberto. “3: The Truth Continuum.” The Truthful Art: Data, Charts, and Maps for Communication, New Riders, 2016, <a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch03.html">https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch03.html</a></li>
             <li>Ensmenger, Nathan L. “The Cloud Is a Factory.” <em>Your Computer Is On Fire</em>, edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, and Kavita Philip, MIT Press, 2021, pp. 37–60. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6479710">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6479710</a>.</li>
-            <li>* Neely-Cohen, Maxwell. "Century-Scale Storage." <a href="https://lil.law.harvard.edu/century-scale-storage">https://lil.law.harvard.edu/century-scale-storage</a>. Accessed 29 July 2025.</li>
+            <li>Neely-Cohen, Maxwell. "Century-Scale Storage." <a href="https://lil.law.harvard.edu/century-scale-storage">https://lil.law.harvard.edu/century-scale-storage</a>. Accessed 29 July 2025.</li>
             <li>Ford, Paul. <em>What Is Code? If You Don’t Know, You Need to Read This</em>, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>. Section 2: "Let's Begin."</li>
         </ul>
     </details>
