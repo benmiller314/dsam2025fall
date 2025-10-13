@@ -235,10 +235,11 @@ To prepare for week 09, [prepare a 5-minute presentation](projects#presentations
 
 For this iteration, you should be able to *look back through your journal* to answer the following:
 
-* What sources / objects are you working with, and why? (Remind us or update us)
-* What have you done with or to those sources to take advantage of digital affordances?
-* What have you learned in the process?
-* What are your next steps?
+* What sources / objects are you working with (brief reminder), and how many do you have?
+* What have you done with or to those sources to take advantage of digital affordances? In other words, how have you _processed_ these sources?
+* How's it going so far? Show us (briefly) what you've got!
+    - Note that this may include insights about your process as well as your developing product.
+* What are your next steps, or questions for us?
 
 *Post your presentation files, along with a link to your developing public-facing project, to the [discussion forum]({{site.repo_url}}/discussions).*
 
