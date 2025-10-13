@@ -161,7 +161,7 @@ There are lots of ways to present your work. You may already be familiar with Po
 <dd><p>A platform for "place-based storytelling", with a graphic user interface (GUI) based on content blocks: add text, buttons, maps, charts, images, video, timelines, etc, and join them together into a vertical scrolling narrative or slide-like "briefing." Search for maps in their library or add maps built in other tools, then annotate them with markup tools for location flags, freehand or fixed lines, areas, or text callouts. By default, the themes (which you can choose among) are responsive to changing screen sizes, so the stories should work on mobile, laptop, or large screens (if your images are high-enough resolution).</p>
 <p>Note that this is a "hifi" tool, in Stolley's sense, meaning that you're at the mercy of the company's decisions about what features and formats they're willing to support, and those could change at any time. As of October 2025, there seems to be an option to "print" to pdf, but not to export a modular, editable file that you could use with another editor (much to the consternation of some community forum contributors).</p>
 <p>There is an open source project that aims to do the same thing, KnightLab's <a href="https://storymap.knightlab.com/">StoryMapJS</a>; for now, though, it's not nearly as full featured or user-friendly.</p>
-
+</dd>
 </dl>
 
 Please suggest more as you find them! :)
