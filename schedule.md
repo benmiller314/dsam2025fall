@@ -211,7 +211,7 @@ To prepare for week 07, please **watch / read**:
     - Crump, Jon. “Generating an Ordered Data Set from an OCR Text File.” <em>Programming Historian</em>, Nov. 2014. programminghistorian.org, <a href="https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file">https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file</a>.
 
 
-<a id="current"></a>
+
 ### [Week 08: Mon, Oct 13](plans/week-08) – Space + Time {#week-08}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -228,7 +228,7 @@ To prepare for week 08, please **read**:
     - Cairo, Alberto. "8: Revealing Change." _The Truthful Art: Data, Charts, and Maps for Communication._ [https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch08.html](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch08.html)
 
 
-
+<a id="current"></a>
 ### [Week 09: Mon, Oct 20](plans/week-09) – Project presentations, iteration 2: Processed {#week-09}
 
 To prepare for week 09, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
