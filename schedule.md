@@ -228,7 +228,7 @@ To prepare for week 08, please **read**:
     - Cairo, Alberto. "8: Revealing Change." _The Truthful Art: Data, Charts, and Maps for Communication._ [https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch08.html](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch08.html)
 
 
-<a id="current"></a>
+
 ### [Week 09: Mon, Oct 20](plans/week-09) – Project presentations, iteration 2: Processed {#week-09}
 
 To prepare for week 09, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
@@ -248,7 +248,7 @@ NB: _Bring your own dongle_, if you need one.
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 
-
+<a id="current"></a>
 ### [Week 10: Mon, Oct 28](plans/week-10) – Access + Accountability {#week-10}
 
 Post **feedback for your partners** on their current project iteration, as a reply to last week's discussion post.
