@@ -259,7 +259,7 @@ In addition to the peer review notes, in prep for week 10 please **read / watch*
         - <a href="https://www.w3.org/WAI/people-use-web/tools-techniques/navigation/">Interaction - navigating and finding</a>
     - <a href="https://www.youtube.com/watch?v=3f31oufqFSM">"Web Accessibility Perspectives - Compilation of 10 Topics/Videos"</a>
     - <a href="https://www.w3.org/WAI/people-use-web/tools-techniques/">How People with Disabilities Use the Web: Tools and Techniques</a>
-* WebAIM (Web Accessibility in Mind). Alternative Text. 19 Oct. 2021, <a href="https://webaim.org/techniques/alttext/">https://webaim.org/techniques/alttext/</a>.
+* WebAIM (Web Accessibility in Mind). "Alternative Text." 19 Oct. 2021, <a href="https://webaim.org/techniques/alttext/">https://webaim.org/techniques/alttext/</a>.
 * Yergeau, M. Remi, Elizabeth Brewer, Stephanie L. Kerschbaum, Sushil Oswal, Margaret Price, Michael J. Salvo, Cynthia L. Selfe, and Franny Howes. “Multimodality in Motion: Disability and Kairotic Spaces.” <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 18, no. 1, Aug. 2013, <a href="https://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html">https://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html</a>.
 * Autistic Self Advocacy Network. “ASAN Says No Generative AI in Plain Language.” 29 July 2025, <a href="https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/">https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/</a>.
 
