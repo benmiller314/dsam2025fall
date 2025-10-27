@@ -282,23 +282,29 @@ To prepare for week 11, please **read / watch**:
 
 * "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty." WIRED, YouTube, 18 Aug 2021. <a href="https://www.youtube.com/watch?v=5q87K1WaoFI">https://www.youtube.com/watch?v=5q87K1WaoFI</a>.
 * Newhauser, Mary. “What Is Generative AI? A Comprehensive Guide for Everyone.” GPTech, 26 June 2023, <a href="https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners">https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners</a>.
+* Bycroft, Brendan. LLM Visualization. <a href="https://bbycroft.net/llm">https://bbycroft.net/llm</a>. Accessed 29 July 2025.
 * Roberts, Sarah T. “Your AI Is a Human.” <em>Your Computer Is On Fire</em>, edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, and Kavita Philip, MIT Press, 2021, pp. 61–83. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6479710">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6479710</a>.
-* Pengfei Li, Jianyi Yang, Mohammad A Islam, and Shaolei Ren. “Making AI Less ‘Thirsty’ – Communications of the ACM.” <em>Communications of the ACM</em>, vol. 68, no. 7, June 2025, pp. 54–61, <a href="https://doi.org/10.1145/3724499">https://doi.org/10.1145/3724499</a>.
+* Pengfei Li, Jianyi Yang, Mohammad A Islam, and Shaolei Ren. “Making AI Less ‘Thirsty’.” <em>Communications of the ACM</em>, vol. 68, no. 7, June 2025, pp. 54–61, <a href="https://doi.org/10.1145/3724499">https://doi.org/10.1145/3724499</a>.
 * Shane, Janelle. “An Exercise in Frustration.” AI Weirdness, 21 May 2024, <a href="https://www.aiweirdness.com/an-exercise-in-frustration/">https://www.aiweirdness.com/an-exercise-in-frustration/</a>.
 * Shane, Janelle. “When Algorithms Surprise Us.” AI Weirdness, 13 Apr 2018, <a href="https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/">https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/</a>.
 * Onuoha, Mimi and Mother Cyborg (Diana Nucera). “A People’s Guide To Tech: Artificial Intelligence.” Allied Media Projects, Aug 2018, <a href="https://alliedmedia.org/resources/peoples-guide-to-ai">https://alliedmedia.org/resources/peoples-guide-to-ai</a>.
-* Bycroft, Brendan. LLM Visualization. https://bbycroft.net/llm. Accessed 29 July 2025.
 
 * EXT: eager learners can read / watch the following:
+    - **NEW** since the semester started:
+        * OpenAI. Sora 2 Is Here. 30 Sept. 2025, [https://openai.com/index/sora-2/](https://openai.com/index/sora-2/).
+        * Thompson, Tiffany, Stuart A. Hsu, and Steven Lee Myers. “OpenAI’s Sora Makes Disinformation Extremely Easy and Extremely Real.” <em>The New York Times</em>, 3 Oct. 2025. NYTimes.com, [https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html](https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html).
+        * Witt, Stephen. “Opinion: The A.I. Prompt That Could End the World.” <em>The New York Times</em>, 10 Oct. 2025. NYTimes.com, [https://www.nytimes.com/2025/10/10/opinion/ai-destruction-technology-future.html](https://www.nytimes.com/2025/10/10/opinion/ai-destruction-technology-future.html).
     - Vara, Vauhini. “Ghosts.” <em>Believer Magazine</em>, 9 Aug. 2021, <a href="https://www.thebeliever.net/ghosts/">https://www.thebeliever.net/ghosts/</a>.
     - Crawford, Kate, and Trevor Paglen. “Excavating AI: The Politics of Training Sets for Machine Learning.” 19 Sep 2019, <a href="https://excavating.ai">https://excavating.ai</a>.
     - Alamar, Jay. "ChatGPT Has Never Seen a SINGLE Word (Despite Reading Most of The Internet). Meet LLM Tokenizers." YouTube, 26 Jul 2023. <a href="https://www.youtube.com/watch?v=uSinkCeUg9U">https://www.youtube.com/watch?v=uSinkCeUg9U</a>.
-    <!-- - Kozyrkov, Cassie. "Introduction to ML and AI - MFML Part 1." posted to YouTube 3 Oct 2021, but filmed in 2018. <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">https://www.youtube.com/watch?v=lYWt-aCnE2U</a>.
-        * NB: a long video, and part of an even longer series. I recommend the following sections:
-        * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&t=973s">from 16:13</a> to 34:45: The process of building a regression model and why that matters.
-        * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">from 39:42</a> to 45:37: Why did AI start booming in the late 2010s?
-        * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&t=3264s">from 54:28</a> to 1:07:05: When can you trust machine learning? -->
-    <!-- - Cheung, Diana. “Demystifying Generative AI: Introducing the Underlying Technologies & Models of Generative AI.” Codesmith.io/Blog, Aug 30, 2023, <a href="https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai">https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai</a>. -->
+
+<!-- - Kozyrkov, Cassie. "Introduction to ML and AI - MFML Part 1." posted to YouTube 3 Oct 2021, but filmed in 2018. <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">https://www.youtube.com/watch?v=lYWt-aCnE2U</a>.
+    * NB: a long video, and part of an even longer series. I recommend the following sections:
+    * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&t=973s">from 16:13</a> to 34:45: The process of building a regression model and why that matters.
+    * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">from 39:42</a> to 45:37: Why did AI start booming in the late 2010s?
+    * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&t=3264s">from 54:28</a> to 1:07:05: When can you trust machine learning? -->
+
+<!-- - Cheung, Diana. “Demystifying Generative AI: Introducing the Underlying Technologies & Models of Generative AI.” Codesmith.io/Blog, Aug 30, 2023, <a href="https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai">https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai</a>. -->
 
 
 
