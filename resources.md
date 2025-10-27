@@ -20,6 +20,7 @@ Table of contents:
 * [Transcription services](#transcription-services)
 * [Extraction services](#extraction-services)
 * [Data Visualization tools](#data-visualization-tools)
+* [Accessibility tools](#accessibility-tools)
 * [Digital Literacies Tutorials](#digital-literacies-tutorials)
 * [Options for publishing to the web](#options-for-publishing-to-the-web)
     - [How to hide your website from search engines](#how-to-hide-your-website-from-search-engines)
@@ -169,6 +170,36 @@ Please suggest more as you find them! :)
 
 <a href="#top"><em>Back to top</em></a>
 
+## Accessibility Tools
+
+This section is meant to gather both tools for navigating digital spaces with limited vision, hearing, or mobility, as well as tools for developers who want to simulate disabilities they do not experience themselves so as to improve the user experience for others. Suggestions are most welcome!
+
+<dl>
+    <dt><a href="https://accessible-communications.com/take-the-21-day-challenge/">The Accessible By Design 21-Day Challenge</a> (https://accessible-communications.com/take-the-21-day-challenge)</dt>
+    <dd>Brought to you by a PR company committed to inclusion, diversity, equity, and accessibility (IDEA). While the 21 tips on this page aren't the best to navigate by keyboard, ironically enough (there's no style to indicate what has focus), the tips they have for communicating with a broadly inclusive audience in mind are pretty good and human-centered, and include things we may not have focused on elsewhere in the curriculum, like describing yourself to blind users at the start of a Zoom meeting or recording; using Microsoft's built-in accessibility checkers; designing slide decks with an accessible reading order; and more.</dd>
+
+    <dt><a href="https://dres.illinois.edu/accommodations/ams/assitive-technology/what-is-assistive-technology/">UIUC Roundup of Assistive Technologies</a></dt>
+    <dd><p>The University of Illinois Urbana-Champaign has a great roundup of Assistive Technology (AT) tools, with an overview at the link above and individual pages for each of several categories of AT software (<a href="https://dres.illinois.edu/accommodations/ams/assitive-technology/dictation-software">dictation</a>, i.e. speech-to-text; <a href="https://dres.illinois.edu/accommodations/ams/assitive-technology/text-to-speech-software/">text-to-speech</a>; <a href="https://dres.illinois.edu/accommodations/ams/assitive-technology/screen-reading-software/">screen readers</a>, which uses sound to announce more than text; <a href="https://dres.illinois.edu/accommodations/ams/assitive-technology/screen-magnification-software/">screen magnification</a>; and <a href="https://dres.illinois.edu/accommodations/ams/assitive-technology/note-taking-software/">note-taking</a>) as well as reminders that AT hardware is also a thing. Includes links to both paid and free software.</p>
+    <p><a href="https://www.wellbeing.pitt.edu/disability-access-accommodations/digital-accessibility">Pitt's page on Digital Accessibility Tools</a> is not as extensive, and is mostly focused on authoring and auditing – though see also Pitt IT's page on <a href="https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=2473">Technology Resources for Accessibility</a>, which lists the paid software available in on-campus Computing Labs; Windows users can also install <a href="https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=2211">Fusion (JAWS & ZoomText)</a>, a screen reader and magnifier in one.</p>
+    </dd>
+
+    <dt><a href="https://wave.webaim.org/">WAVE browser extension/plugin</a></dt>
+    <dd>The Web Accessibility EValuation Tool (just go with it) will quickly summarize both inhospitable features (errors, alerts) and hospitable features (features, structural elements) of the current web page, and label them with icons for further inspection. Further tabs within the sidebar add details and reference materials you can use to improve.
+    </dd>
+
+    <dt><a href="https://chrispederick.com/work/web-developer/">Web Developer browser plugin</a></dt>
+    <dd>A JavaScript-based bookmarklet for putting a website through its paces. I mostly use it to simultaneously display alt text for all images on a page, or even replace images with their text alternatives. It can also display <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles">ARIA roles</a>, search for duplicate IDs that would break navigation, show a palette of all colors used in the current page, produce an outline based on headings, and more.</dd>
+
+    <dt><a href="https://wearecolorblind.com/resources/">Colorblind-friendly Design Resources</a></dt>
+    <dd>Includes design advice as well as links to colorblind simulators, which currently (October 2025) includes <a href="https://colororacle.org/">Color Oracle</a> (works on Windows, Mac, and Linux to shift the whole desktop window) and <a href="https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg">Colorblindly</a> (shifts pages in the Chrome web browser).
+    </dd>
+</dl>
+
+Have a tool or strategy you prefer? Please tell me about it, so I can add it here!
+
+See also the transcription tools in the next section.
+
+<a href="#top"><em>Back to top</em></a>
 
 ## Transcription services
 
