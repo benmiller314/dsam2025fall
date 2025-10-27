@@ -1,6 +1,6 @@
 
-# Week 10: Digital Accessibility
-<span class="date">October 28, 2024</span>
+# Week 10: Access + Accountability
+<span class="date">October 27, 2025</span>
 
 <section class="prereqs">
     <details><summary><strong>Texts to have read / watched</strong></summary>
@@ -16,6 +16,8 @@
                 <li><a href="https://www.youtube.com/watch?v=3f31oufqFSM">"Web Accessibility Perspectives - Compilation of 10 Topics/Videos"</a></li>
                 <li><a href="https://www.w3.org/WAI/people-use-web/tools-techniques/">How People with Disabilities Use the Web: Tools and Techniques</a></li>
             </ul></li>
+            <li>WebAIM (Web Accessibility in Mind). "Alternative Text." 19 Oct. 2021, <a href="https://webaim.org/techniques/alttext/">https://webaim.org/techniques/alttext/</a>.</li>
+            <li>Autistic Self Advocacy Network. “ASAN Says No Generative AI in Plain Language.” 29 July 2025, <a href="https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/">https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/</a>.</li>
             <li>Yergeau, M. Remi, Elizabeth Brewer, Stephanie L. Kerschbaum, Sushil Oswal, Margaret Price, Michael J. Salvo, Cynthia L. Selfe, and Franny Howes. “Multimodality in Motion: Disability and Kairotic Spaces.” <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 18, no. 1, Aug. 2013, <a href="https://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html">https://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html</a>.</li>
         </ul>
     </details>
@@ -29,16 +31,18 @@
 * [First half](#first-half): Let's discuss!
     - Warm-up writing: tensions, takeaways, confusions, questions
     - Discussion: Questions, comments, connections
-    - Grok writing (around 10:20)
+    - Writing to remember (around 10:20)
     - Sharing (around 10:30)
 * Break (10 minutes)
 * [Second half](#second-half): Let's practice!
+    - Writing alt text
     - Inspecting accessibility
     - Headings and document outlines
-    - Writing alt text
     <!-- - non-mouse navigation: keyboard, screen readers -->
     - EXT: Studio. <!-- Assess (and improve) the accessibility of your own public-facing project presentation. Except that _no one_ has a website yet, so...  -->
-* [Homework for next time](#hw): Exploring (and cleaning?) data
+* [Homework for next time](#hw):
+    - machines + learning
+    - looking ahead
 
 
 ## First half: Discussion {#first-half}
@@ -50,21 +54,27 @@ Depending on your own practices, you may want to make lists or freewrite, or eve
 
 ### Discussion: Questions, comments, connections
 
-If we get to grok-writing by around 10:15, that should give us about equal time to play with the concepts now and to play with the methods in the second half.
+Let's discuss! We can take notes at [bit.ly/dsam{{site.course.slugterm}}-notes](https://bit.ly/dsam{{site.course.slugterm}}-notes).
 
-Let's take notes at [bit.ly/dsam{{site.course.slugterm}}-notes](https://bit.ly/dsam{{site.course.slugterm}}-notes).
+If we get to grok-writing by around 10:15, that should give us about equal time to play with the concepts now and to play with the methods in the second half.
 
 **Who would like to share?**
 
 <details>
     <summary>Starting points, should we need them</summary>
-    <ul class="spaced">
-        <li><em>Perceivable, operable, understandable, robust</em>. How are these terms defined in relation to accessibility? How do they relate to digital studies concepts from earlier in the semester, including the <a href="week-01#digital" title="procedural, participatory, encyclopedic, spatial; or (alternatively) numerical representation, modularity, automation, variability, transcoding">affordances of digital media</a> that we discussed way back in lesson 1?</li>
-        <li>Given what you know about GenAI, would you want to automate the creation of alt text? What could be the benefits? What could go wrong? How about video transcripts: is the risk/reward calculation the same?</li>
+    <ol class="spaced">
+        <li>How do Yergeau, Brewer, Kerschbaum, Oswal, Salvo, Selfe, and Howes take advantage of the digital medium in "Multimodality in Motion: Disability and Kairotic Spaces" to do things that wouldn't be possible on paper or in person? In what ways do they follow their own advice to make their webtext accessible and hospitable? </li>
+        <li><em>Perceivable, operable, understandable, robust</em>. How are these terms defined in relation to accessibility? How do they relate to digital studies concepts from earlier in the semester, including the <a href="week-01#digital">affordances of digital media</a> that we discussed way back in lesson 1, that things made of digital bits are characterized by: <em>numerical representation, modularity, automation, variability, and transcoding</em> – or, alternately, that they are by virtue of their digital nature capable of sustaining <em>procedural, participatory, encyclopedic, and spatial</em> characteristics? What do you notice differently about those earlier framings in light of the WAI terms?</li>
         <!-- <li>What does it mean to say that "Universal design is a process, a means rather than an end" (Yergeau et al, access.html)?</li> -->
-        <li>How do Yergeau, Brewer, Kerschbaum, Oswal, Salvo, Selfe, and Howes take advantage of the digital medium to do things that wouldn't be possible on paper or in person? In what ways do they follow their own advice to make their webtext accessible and hospitable?</li>
-        <li>Yergeau et al write, <blockquote>[T]o say that no text will be universally accessible is not a justification for failing to consider what audiences are invited into and imagined as part of a text. It matters who reads, in matters who engages, and it matters who is conceptualized as a reader. (access.html)</blockquote> Consider the "public-facing deliverable" for your own project. Who is "conceptualized as a reader" by your design choices? In what ways are you enabling or disabling access to your project? <!--Is there anything you might want to change by next time?--></li>
-    </ul>
+        <li><p>We'll talk more about generative AI in week 11, but given what you already know about GenAI, would you want to automate the creation of alt text? What could be the benefits? What could go wrong?</p><p>How about video transcripts: is the risk/reward calculation the same?</p></li>
+        <li><p>Yergeau et al <a href="https://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/pages/access.html">write</a>,</p>
+            <blockquote>
+                <p>Universal design is a process, a means rather than an end. There’s no such thing as a universally designed text. There’s no such thing as a text that meets everyone’s needs. That our webtext falls short is inevitable.</p>
+                <p>But to say that no text will be universally accessible is not a justification for failing to consider what audiences are invited into and imagined as part of a text. It matters who reads, in matters who engages, and it matters who is conceptualized as a reader.</p>
+            </blockquote>
+            <p dir="auto">Consider the "public-facing deliverable" you've been iteratively developing for your own project. Who is "conceptualized as a reader" by your design choices so far? In what ways do you / will you invite access to your project?</p>
+        </li>
+    </ol>
 </details>
 
 EXT: The fairness conundrum of presentations 3 & 4.
@@ -85,9 +95,53 @@ I'm guessing we'll hit the break at around 10:40 or so. Try to be back for a 10:
 
 ## Second half: Let's practice! {#second-half}
 
+I have way more we could do than we'll actually have time for. Let's start at the top, and move self-paced through the rest – but I'll periodically cut in to make sure you get at least a little time with each of the following:
+
+1. writing alt text
+2. using headings to make document outlines
+3. testing accessibility with plug-in and built-in tools
+
+Any extra time you have is for studio; just save me a few minutes at the end.
+
+### Writing alt text
+As we've seen, the context of an image is essential to deciding what would be appropriate as a textual alternative: it depends what you're trying to communicate. Rather than ask you to work within an artificial context, then, I'm going to choose one you all have already: _your own project presentations from last week._
+
+Of the images you included, which do you think you'll want to show again – whether as part of your public-facing project or as part of a process reflection for this class?
+
+<div class="alert alert-success panel panel-success">
+<div class="alert-body panel-body">
+    If you haven't yet done so, take some time now to write text alternatives for at least a few of the images you plan to use.
+</div></div>
+
+* If you're working within a presentation, you can probably right-click on the image in your presentation software to enter alt text
+* If you're working on a website, including a web-based README file, you have several options:
+    - The image tag can take an alt attribute: `<img alt='description goes here' src='path/to/filename.png'>`
+    - You can add a caption, linked to the visual using `<figure><figcaption></figcaption></figure>`. (For an example, right-click one of the images below and Inspect Element to see the underlying markup.)
+    - You can use body text alongside the image to parallel what the image is "saying," so you can use empty alt text (`alt=""`) without losing meaning.
+* If you don't yet have screenshots of your project-in-progress, go ahead and take some now! You can write draft alt text in a text file, to save for a future presentation or process reflection. Just be sure to include the image filename, so you know what the text corresponds to.
+
+
+
+### Headings and document outlines
+
+**Even if you don't know much HTML, it's good to know about headings**, because they're also present in other places like Word documents, Google docs, and Markdown files (such as a GitHub README).
+
+In general, you shouldn't choose a heading level based on what it looks like – you can always change what it looks like to suit your preferences. Instead, use a logical nested sequence:
+
+* Use a single `<h1>` (or `#` in Markdown) at the top of the page: this is more or less your title. Each document should have one, but only one, `h1`.
+* Use `<h2>` (or `##`) for the main sections of the page: the first column of the outline, essentially. Don't skip straight to `<h3>` or below.
+* You can, however, jump back *up* to an `<h2>` if you've gotten down past `<h3>` to `<h4>`
+* In general, differences in heading levels past the fourth are too hard to discern or keep track of, and you should probably look to restructure or just use a list or boldface (or both) to structure whatever's going on at that level of detail.
+
+<div class="alert alert-success">
+<p>Let's have a look at our notes document: are the headings properly structured? Are there any days when additional structure would be beneficial?</p>
+<p>How about the README for your project (if you have one)?</p>
+</div>
+
+
 ### Inspecting a website's accessibility
 
-There are lots of ways.
+There are multiple ways.
 
 <ol>
     <li>We might try the <a href="https://wave.webaim.org/">WAVE browser extension/plugin</a>.
@@ -97,73 +151,65 @@ There are lots of ways.
         </figure>
     </li>
 
-    <li>Firefox also has a pretty great built-in Accessibility Inspector. Just right-click anywhere on the page and choose "Inspect Accessibility Properties."
+    <li>Firefox has a pretty great built-in Accessibility Inspector. Just right-click anywhere on the page and choose "Inspect Accessibility Properties."
         <figure>
             <img alt="course homepage with the Firefox Accessibility Inspector activated" src="../assets/img/firefox-accessibility-inspector.png">
             <figcaption>Available by default in Firefox, the Accessibility tab of the Inspector tool can check for contrast, keyboard navigation, and text labeling issues. It can also simulate various kinds of color-blindness.</figcaption>
         </figure>
+        <ul>
+            <li>NB: Look for the "check for issues" button at the start of the inspector tab; you may have to change it from "None."
+                <figure>
+                    <img alt="close-up of firefox accessibility inspector's check issues button" src="../assets/img/firefox-accessibility-inspector--check-for-issues.png">
+                    <figcaption>Issues to check for include color contrast, keyboard navigation, and the availability of text labels for navigable or interactive components of the page.</figcaption>
+                </figure>
+            </li>
+        </ul>
     </li>
+    <li>Did you know that PowerPoint will also let you check color contrast and reading order for keyboard users? On the Review tab, select the option to "Check Accessibility." This tip courtesy of PR company Current Global's <a href="https://accessible-communications.com/take-the-21-day-challenge/">"Accessible By Design" 21-Day Challenge</a>.</li>
 </ol>
 
-Any browser inspector will also let you experiment with changes to fonts, colors, and layouts – just remember to save your changes outside of the browser, or you'll lose them if you refresh the page.
-
-(The color picker in Chrome's inspector is particularly good. Chrome's accessibility checker, not so much: it's all but non-existent.)
-
-### Headings and document outlines
-
-Both the inspectors above will also show the document outline implied by your headings and other HTML structural elements.
-
-Even if you don't know much HTML, it's good to know about headings, because they're also present in other places like Word documents, Google docs, and Markdown files (such as a GitHub README).
-
-In general, you shouldn't choose a heading level based on what it looks like – you can always change what it looks like to suit your preferences. Instead, use a logical nested sequence:
-
-* Use a single `<h1>` (or `#` in Markdown) at the top of the page: this is more or less your title
-* Use `<h2>` (or `##`) for the main sections of the page: the first column of the outline, essentially. Don't skip straight to `<h3>` or below.
-* You can, however, jump back *up* to an `<h2>` if you've gotten down past `<h3>` to `<h4>`
-* In general, differences in heading levels past the fourth are too hard to discern or keep track of, and you should probably look to restructure or just use a list or boldface (or both) to structure whatever's going on at that level of detail.
-
 <div class="alert alert-success">
-Let's have a look at our notes document: are the headings properly structured? How about the README for your project (if you have one)?
+Choose one of the above and check your own project pages, my course pages, or any other web interface you're interested in improving.
 </div>
 
+<!--
+NB: Any browser inspector will also let you experiment with changes to fonts, colors, and layouts – just remember to save your changes outside of the browser, or you'll lose them if you refresh the page.
 
-### Writing alt text
+(The color picker in Chrome's inspector is particularly good. Chrome's accessibility checker, less so, though their "accessibility tree" – the tab order, sort of - has improved over time.) -->
 
-In retrospect, I should have assigned the WebAIM guide to Alternative Text at [webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/). As it stands, let's read through the beginning together, then split into pairs to discuss each of the examples.
-
-<div class="alert alert-success">
-<p>When you get to a multiple choice option for how to label an image, <strong>talk through the options with your partner</strong>. Do you agree on what you would choose?</p>
-<p>Once you've both voiced your best guess, read how the WebAIM team would label the image. Any surprises?</p>
-</div>
-
-I'm hoping everyone will have time to get through at least the first four examples. If you can go further, go ahead while time allows.
-
-EXT: If you finish the whole page, take some screenshots of your project and practice writing alt text for them. You can use these later on, in your final reflection.
 
 
 ### EXT: Studio
 
-Finished with all the above? **Use the remaining time to work on your project** – or to produce transcripts of your video/audio files from last week. (Check the [resources page](../resources#transcription-services) for my current favorite AI transcription tool – or suggest others!)
+Finished with all the above? **Use the remaining time to move your project forward** – or to produce transcripts of your video/audio files from last week. (Check the [resources page](../resources#transcription-services) for my current favorite AI transcription tool – or suggest others!)
+
+Save 10 minutes at the end: five for a quick exit note in the google doc and another five to look ahead at the next few weeks.
 
 
 ## Homework for next time {#hw}
 
 As always, continue working on your project – now with a little more feedback – and take notes in your [Mindful Practice Journal](projects.md).
 
-I'll also ask you to **[add your thoughts to the discussion forum]({{site.repo_url}}/discussions) after reading**.
+Next week we'll talk about machine learning and GenAI, and the week after that I'm asking you all to bring in example projects in your fields that are awesome and inspiring. So if you haven't yet looked around at what your digital project is in conversation with, consider this a two-week warning! ;) (But no, your example doesn't have to be on the exact same subject.) Alison will be joining us for both of those, and for the second she'll be hosting in person while I Zoom in from New York.
 
-In preparation for <a title="required reading: 48 page-equivalents; EXT reading adds 31 (plus a book) for a total of 78 (plus a book)">week 11, on exploring data</a>, please:
+For next week, I'll also ask you to **[add your thoughts to the discussion forum]({{site.repo_url}}/discussions) after reading**. For our lead responders, I believe we're back to John, Rose, Tunga, Scylla, and Yuqing.
 
-* **Download** [OpenRefine](https://openrefine.org/), a "powerful[,] free, open source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data."
-* In addition, **watch / read**:
-    - Gradek, Bob, and Liz Monk. "Dataset Summaries: Pivot Tables." vimeo, 2022. [https://vimeo.com/703773939](https://vimeo.com/703773939).
-    - van Hooland, Seth, Ruben Verborgh, and Max De Wilde. “Cleaning Data with OpenRefine.” _Programming Historian_, Aug. 2013. [https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine).
-    - Cairo, Alberto. “6: Exploring Data with Simple Charts.” The Truthful Art: Data, Charts, and Maps for Communication, New Riders, 2016. learning.oreilly.com, [https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html).
-        * NB: to view the content, click "SIGN IN" at the top of the page, and begin logging in with your Pitt email address; you should then get the option to "Sign in with SSO" (single sign-on), which will take you to the Pitt Passport screen.
-    - D’Ignazio, Catherine, and Lauren F. Klein. “5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars.” _Data Feminism_, MIT Press, 2020, pp. 125–48. [https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138](https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138).
+In preparation for <a title="required reading: 92 page-equivalents; EXT reading adds 48 not counting the new stuff on Sora 2">week 11</a>, please **watch / read**:
+
+* "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty." WIRED, YouTube, 18 Aug 2021. <a href="https://www.youtube.com/watch?v=5q87K1WaoFI">https://www.youtube.com/watch?v=5q87K1WaoFI</a>.
+* Newhauser, Mary. “What Is Generative AI? A Comprehensive Guide for Everyone.” GPTech, 26 June 2023, <a href="https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners">https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners</a>.
+* Bycroft, Brendan. LLM Visualization. <a href="https://bbycroft.net/llm">https://bbycroft.net/llm</a>. Accessed 29 July 2025.
+* Roberts, Sarah T. “Your AI Is a Human.” <em>Your Computer Is On Fire</em>, edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, and Kavita Philip, MIT Press, 2021, pp. 61–83. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6479710">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6479710</a>.
+* Pengfei Li, Jianyi Yang, Mohammad A Islam, and Shaolei Ren. “Making AI Less ‘Thirsty’.” <em>Communications of the ACM</em>, vol. 68, no. 7, June 2025, pp. 54–61, <a href="https://doi.org/10.1145/3724499">https://doi.org/10.1145/3724499</a>.
+* Shane, Janelle. “An Exercise in Frustration.” AI Weirdness, 21 May 2024, <a href="https://www.aiweirdness.com/an-exercise-in-frustration/">https://www.aiweirdness.com/an-exercise-in-frustration/</a>.
+* Shane, Janelle. “When Algorithms Surprise Us.” AI Weirdness, 13 Apr 2018, <a href="https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/">https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/</a>.
+* Onuoha, Mimi and Mother Cyborg (Diana Nucera). “A People’s Guide To Tech: Artificial Intelligence.” Allied Media Projects, Aug 2018, <a href="https://alliedmedia.org/resources/peoples-guide-to-ai">https://alliedmedia.org/resources/peoples-guide-to-ai</a>.
 
 * EXT for eager readers:
-    - Arnold, Taylor, and Lauren Tilton. “New Data? The Role of Statistics in DH.” _Debates in the Digital Humanities 2019_, Univ of Minnesota Press, 2019, [https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24).
-    - Crump, Jon. “Generating an Ordered Data Set from an OCR Text File.” _Programming Historian_, Nov. 2014. [https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file](https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file).
-        * A tutorial of intermediate difficulty – it relies on at least a little knowledge of regular expressions and Python – but could be very beneficial as a model to those of you working with paginated textual corpora.
-    - For a much more in-depth treatment of this topic, see [R for Data Science](https://r4ds.hadley.nz/whole-game), by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, which will teach you how to make data figures like those Alberto Cairo uses. It may take... some time, though. (Likely more than one or two weeks.)
+    - **NEW** since the semester started:
+        * OpenAI. Sora 2 Is Here. 30 Sept. 2025, [https://openai.com/index/sora-2/](https://openai.com/index/sora-2/).
+        * Thompson, Tiffany, Stuart A. Hsu, and Steven Lee Myers. “OpenAI’s Sora Makes Disinformation Extremely Easy and Extremely Real.” <em>The New York Times</em>, 3 Oct. 2025. NYTimes.com, [https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html](https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html).
+        * Witt, Stephen. “Opinion: The A.I. Prompt That Could End the World.” <em>The New York Times</em>, 10 Oct. 2025. NYTimes.com, [https://www.nytimes.com/2025/10/10/opinion/ai-destruction-technology-future.html](https://www.nytimes.com/2025/10/10/opinion/ai-destruction-technology-future.html).
+    - Vara, Vauhini. “Ghosts.” <em>Believer Magazine</em>, 9 Aug. 2021, <a href="https://www.thebeliever.net/ghosts/">https://www.thebeliever.net/ghosts/</a>.
+    - Crawford, Kate, and Trevor Paglen. “Excavating AI: The Politics of Training Sets for Machine Learning.” 19 Sep 2019, <a href="https://excavating.ai">https://excavating.ai</a>.
+    - Alamar, Jay. "ChatGPT Has Never Seen a SINGLE Word (Despite Reading Most of The Internet). Meet LLM Tokenizers." YouTube, 26 Jul 2023. <a href="https://www.youtube.com/watch?v=uSinkCeUg9U">https://www.youtube.com/watch?v=uSinkCeUg9U</a>.
