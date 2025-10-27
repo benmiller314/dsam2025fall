@@ -22,7 +22,7 @@
         </ul>
     </details>
     <details><summary><strong>Writing to turn in</strong></summary>
-        <ul><li>two peer reviews, posted to the <a href="{{site.repo_url}}/discussions/7">discussion forum</a></li></ul>
+        <ul><li>two peer reviews, posted to the <a href="{{site.repo_url}}/discussions/8">discussion forum</a></li></ul>
     </details>
 </section>
 
