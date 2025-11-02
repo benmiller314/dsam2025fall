@@ -248,7 +248,7 @@ NB: _Bring your own dongle_, if you need one.
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 
-<a id="current"></a>
+
 ### [Week 10: Mon, Oct 28](plans/week-10) – Access + Accountability {#week-10}
 
 Post **feedback for your partners** on their current project iteration, as a reply to last week's discussion post.
@@ -273,7 +273,7 @@ To prepare for week 10, please **read / watch**:
     - D’Ignazio, Catherine, and Lauren F. Klein. <em>Data Feminism</em>, MIT Press, 2020. ProQuest Ebook Central.
         * <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138">5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars</a>
 
-
+<a id="current"></a>
 ### [Week 11: Mon, Nov 03](plans/week-11) – Machines + Learning {#week-11}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -291,7 +291,7 @@ To prepare for week 11, please **read / watch**:
 
 * EXT: eager learners can read / watch the following:
     - **NEW** since the semester started:
-        * OpenAI. Sora 2 Is Here. 30 Sept. 2025, [https://openai.com/index/sora-2/](https://openai.com/index/sora-2/).
+        * OpenAI. "Sora 2 Is Here." 30 Sept. 2025, [https://openai.com/index/sora-2/](https://openai.com/index/sora-2/).
         * Thompson, Tiffany, Stuart A. Hsu, and Steven Lee Myers. “OpenAI’s Sora Makes Disinformation Extremely Easy and Extremely Real.” <em>The New York Times</em>, 3 Oct. 2025. NYTimes.com, [https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html](https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html).
         * Witt, Stephen. “Opinion: The A.I. Prompt That Could End the World.” <em>The New York Times</em>, 10 Oct. 2025. NYTimes.com, [https://www.nytimes.com/2025/10/10/opinion/ai-destruction-technology-future.html](https://www.nytimes.com/2025/10/10/opinion/ai-destruction-technology-future.html).
     - Vara, Vauhini. “Ghosts.” <em>Believer Magazine</em>, 9 Aug. 2021, <a href="https://www.thebeliever.net/ghosts/">https://www.thebeliever.net/ghosts/</a>.
