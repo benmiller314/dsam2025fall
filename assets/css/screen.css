@@ -338,6 +338,14 @@ ol ul:first-of-type {
     list-style-type: disc;
 }
 
+/* Some lists are just for accessibility, and sighted users don't need the bullets */
+
+ol.unmarked, ul.unmarked {
+	list-style-type: none;
+	padding-inline-start: 0;
+}
+
+
 /* And sometimes you want a little spoiler space */
 .break {
 	padding-top: 3em;

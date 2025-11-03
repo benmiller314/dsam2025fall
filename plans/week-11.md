@@ -68,8 +68,9 @@ If we get to grok-writing by around 10:15, that should give us about equal time 
 
 As usual, it would be great if we could take some collaborative notes at [bit.ly/dsam{{site.course.slugterm}}-notes](https://bit.ly/dsam{{site.course.slugterm}}-notes).
 
-Some possible passages for consideration / moments to revisit, if needed
-<ul class="spaced">
+Some possible passages for consideration / moments to revisit, if needed:
+
+<ul class="unmarked">
     <!-- <li><details><summary>The visibility paradox from another angle</summary>
         <blockquote>On one hand, removing these problematic datasets from the internet may seem like a victory. The most obvious privacy and ethical violations are addressed by making them no longer accessible. However, taking them offline doesn’t stop their work in the world: these training sets have been downloaded countless times, and have made their way into many production AI systems and academic papers. By erasing them completely, not only is a significant part of the history of AI lost, but researchers are unable to see how the assumptions, labels, and classificatory approaches have been replicated in new systems, or trace the provenance of skews and biases exhibited in working systems. (Crawford and Paglen)</blockquote>
         <p></p>
@@ -87,13 +88,13 @@ Some possible passages for consideration / moments to revisit, if needed
         <p>Tunga, you said you wanted to talk about art pieces from another course in connection to these questions...?</p>
     </details></li>
     <li><details><summary>Shortcuts and ill-defined problems (or not)</summary>
-        <p>Another key idea and passage from Tunga, this time from Janelle Shane:</p> <blockquote>
+        <p>Another key idea and passage from Tunga, this time on "AI Weirdness":</p> <blockquote>
             <blockquote>So as programmers we have to be very very careful that our algorithms are solving the problems that we meant for them to solve, not exploiting shortcuts. If there’s another, easier route toward solving a given problem, machine learning will likely find it.</blockquote>
             <p>Janelle Shane’s blog posts are deceptively lighthearted meditations on the mischief of machine learning. Through anecdotes of robots that learn to “walk” by collapsing dramatically, or image models that misinterpret simple prompts into absurd and grotesque results, she exposes the strange literalism of artificial intelligence. The humor of these stories (the falling robots, the invisible dinosaurs, the pies that replace deer!) makes them memorable, but beneath that humor lies a serious warning about design and interpretation. Shane’s world of failed experiments and unexpected outputs reminds us that algorithms do not think metaphorically or contextually; they optimize, blindly and brilliantly, toward whatever metric we hand them.</p>
             <p>I think these posts connect immediately to my reading of Roberts. What does it mean, then, to call these systems “intelligent.”? If they are capable only of optimizing our ambiguities, are they learning or simply reflecting the narrowness of our definitions? And if an algorithm always finds “an easier route,” what does that say about the human desire to mechanize creativity, efficiency, or even art? I find Shane’s playful tone disguises a deep ethical unease. Intelligence, stripped of interpretation, can still achieve its goal and yet utterly miss the point.</p>
         </blockquote>
         <p>I love that last line! And I saw it too late to write it up fully, but Rose, I think you had a relevant note here as well on interpretability...?</p>        
-    </details>
+    </details></li>
     <li><details><summary>Data <em>about</em> vs. data that <em>serves</em></summary>
         <blockquote>
             <p>Undocumented people, immigrants, and people of color in lower-income spaces also tend to be over-surveilled. In other words, they’re more likely to have data and information collected about them without their consent, or they’re forced to give it up to get access to basic needs. For example, if you qualify for food stamps in the US, you know that you had to share a lot of information about yourself with the local government, whereas your wealthier neighbor likely hasn’t been forced to in the same way.</p>
@@ -113,7 +114,7 @@ Some possible passages for consideration / moments to revisit, if needed
         <p>In "An Exercise in Frustration," Janelle Shane documents the difficulty she had in getting the image generator DALL-E3 (via ChatGPT4) to revise according to her instructions. Given what you've read/seen about how these models are trained, do you think a model with a text-based output would have the same difficulty with revising? Why or why not? Would it be frustrating in the same way? Why or why not?</p>
         </details>
     </li> -->
-</ol>
+</ul>
 
 
 ### Writing to remember
