@@ -273,7 +273,7 @@ To prepare for week 10, please **read / watch**:
     - D’Ignazio, Catherine, and Lauren F. Klein. <em>Data Feminism</em>, MIT Press, 2020. ProQuest Ebook Central.
         * <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138">5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars</a>
 
-<a id="current"></a>
+
 ### [Week 11: Mon, Nov 03](plans/week-11) – Machines + Learning {#week-11}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -307,14 +307,14 @@ To prepare for week 11, please **read / watch**:
 <!-- - Cheung, Diana. “Demystifying Generative AI: Introducing the Underlying Technologies & Models of Generative AI.” Codesmith.io/Blog, Aug 30, 2023, <a href="https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai">https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai</a>. -->
 
 
-
+<a id="current"></a>
 ### [Week 12: Mon, Nov 10](plans/week-12) – Exploration + Inspiration {#week-12}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
 To prepare for week 12, search the internet for a respected public-facing digital project in your field or discipline. Do any of your field's organizations or conferences sponsor awards for digital work? If so, you might start there. If you're not sure, now's a good time to find out!
 
-Of the projects you find, **choose** one that inspires you, and **present** it to the class for a community peer review. **Be ready to discuss** its sources, methods, and presentation choices, as well as the arguments it makes or questions it helps us investigate. What does the digital medium facilitate?
+Of the projects you find, **choose one** that inspires you, and **post a link** to your chosen project to the [discussion forum]({{site.repo_url}}/discussions). Add a few words about what the project is and what's cool about it. **Be ready to present and discuss your chosen project**: its sources, methods, and presentation choices, as well as the arguments it makes or questions it helps us investigate. What does the digital medium facilitate?
 
 Post a link to your chosen project to the [discussion forum]({{site.repo_url}}/discussions).
 
