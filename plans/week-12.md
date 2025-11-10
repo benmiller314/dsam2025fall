@@ -47,7 +47,7 @@ A little randomly! Since everyone is prepared, we can use this [Wheel of Names](
 
 Aim for each presentation to last about five minutes, and we'll help you keep track of time. We should then have 10-15 minutes for Q&A. Any extra time at the end can be used for studio.
 
-If you're selected, sign on to the Zoom at [https://pitt.zoom.us/j/91354341319](https://pitt.zoom.us/j/91354341319). Mute your speaker and microphone – I'll pick everything up via the OWL.
+If you're selected, sign on to the Zoom at [https://pitt.zoom.us/my/benmiller314](https://pitt.zoom.us/my/benmiller314). Mute your speaker and microphone – I'll pick everything up via the OWL.
 
 Anyone who doesn't present today will present their own DSAM project next week for Iteration 3 (brought to you by "and...?").
 
