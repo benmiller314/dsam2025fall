@@ -307,7 +307,7 @@ To prepare for week 11, please **read / watch**:
 <!-- - Cheung, Diana. “Demystifying Generative AI: Introducing the Underlying Technologies & Models of Generative AI.” Codesmith.io/Blog, Aug 30, 2023, <a href="https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai">https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai</a>. -->
 
 
-<a id="current"></a>
+
 ### [Week 12: Mon, Nov 10](plans/week-12) – Exploration + Inspiration {#week-12}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
@@ -318,14 +318,14 @@ Of the projects you find, **choose one** that inspires you, and **post a link** 
 
 Post a link to your chosen project to the [discussion forum]({{site.repo_url}}/discussions).
 
-
+<a id="current"></a>
 ### [Week 13: Mon, Nov 17](plans/week-13) – Project presentations, iteration 3: And...? {#week-13}
 
-To prepare for week 13, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
+For week 13, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
 
 For this iteration, you should be able to *look back through your journal* to answer the following:
 
-* What questions are you pursuing by processing your sources / objects? (Remind us or update us)
+* What questions are you pursuing by processing your sources / objects? (Briefly remind us or update us)
 * What answers do you have so far, however tentative?
 * What are your next steps to deepen your questions and answers?
 * What have you learned about digital research in the process?
