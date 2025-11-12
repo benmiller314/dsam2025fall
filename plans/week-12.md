@@ -22,11 +22,8 @@
 -   [Presentations](#second-half): second half
     -   presentation 4 (~10:45-11:05)
     -   presentation 5 (~11:05-11:30)
--   A scheduling question
--   EXT: Work on peer letters
 -   [Homework for next time](#hw):
-    -   peer review letters
-    -   reading about digital accessibility
+    -   project presentations, iteration 3: and...?
 
 ## Framing {#framing}
 
