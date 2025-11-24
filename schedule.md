@@ -318,7 +318,7 @@ Of the projects you find, **choose one** that inspires you, and **post a link** 
 
 Post a link to your chosen project to the [discussion forum]({{site.repo_url}}/discussions).
 
-<a id="current"></a>
+
 ### [Week 13: Mon, Nov 17](plans/week-13) – Project presentations, iteration 3: And...? {#week-13}
 
 For week 13, [prepare a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss.<sup title="Everyone will turn in, and everyone will get (and give) written peer feedback, but realistically we only have time for about four presenters with full discussion.">\*</sup> If you want to time yourself, you can even post a recording; but **you must have some presentation file you can share or link to.**
@@ -339,7 +339,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 <!-- <div class="alert alert-warning">NEW: Based on our conversation in week 11, all videos should be <strong>posted by Friday, Nov 14</strong> so we can all <strong>watch them before class.</strong> This should allow us to dive right into sayback and feedback during next week's class.</div> -->
 
 
-
+<a id="current"></a>
 ### [Week 14: Mon, Nov 25](plans/week-14) – <strong>No Class: Thanksgiving Break</strong> (digesting) {#week-14}
 
 <div class="panel panel-info alert alert-success">
@@ -363,6 +363,27 @@ Otherwise, continue working on your project, and take notes in your [Mindful Pra
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
 Whether there are readings, and what they are, depends on the results of the vote!
+
+UPDATE: the votes are in, and the top two requests are Time Series Data (highest weighted average, no 1's or 2's) and Studio Time (second-highest weighted average, and greatest number of 5's). So **we'll have some short collective time-data time, followed by individual studio time**, saving a bit at the end for one presentation and a bit at the start to talk through final portfolios and reflections.
+
+* Advice on plotting time:
+    - Cairo, Alberto. "8: Revealing Change." _The Truthful Art: Data, Charts, and Maps for Communication._ [https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch08.html](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch08.html)
+    - Datawrapper Academy. "What to Consider When Creating Line Charts." 21 June 2024, [https://academy.datawrapper.de/article/129-what-to-consider-when-creating-line-charts](https://academy.datawrapper.de/article/129-what-to-consider-when-creating-line-charts).
+    - Datawrapper Academy. "How to Create a Bump Chart." 25 Feb. 2025, [https://academy.datawrapper.de/article/347-how-to-create-a-bump-chart](https://academy.datawrapper.de/article/347-how-to-create-a-bump-chart).
+* Further advice on graphing data in general (picking up on our conversation from [week 6](#week-06)):
+    - Datawrapper Academy. "What to Consider When Choosing Colors for Data Visualization." 17 September 2024, [https://academy.datawrapper.de/article/140-what-to-consider-when-choosing-colors-for-data-visualization](https://academy.datawrapper.de/article/140-what-to-consider-when-choosing-colors-for-data-visualization).
+    - D’Ignazio, Catherine, and Lauren F. Klein. “6: The Numbers Don’t Speak for Themselves.” _Data Feminism_, MIT Press, 2020, pp. 149–72. mitpressonpubpub.mitpress.mit.edu, [https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950](https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950).
+* Inspirational examples:
+    - [Datawrapper: small-multiple line charts](https://academy.datawrapper.de/article/386-examples-of-datawrapper-multiple-lines-charts)
+    - [Datawrapper: scatter plots with time](https://academy.datawrapper.de/article/414-examples-of-datawrapper-scatter-plots-time)
+    - [RAWgraphs: beeswarm plot with time](https://www.rawgraphs.io/gallery/satellite-charts)
+* Preparing your data for display (long to wide, wide to long, depending on your tool of choice):
+    - Muth, Lisa Charlotte. “How to Get Data in the Right Format with Pivot Tables.” Datawrapper Blog, 24 Apr. 2018, [https://www.datawrapper.de/blog/pivottables](https://www.datawrapper.de/blog/pivottables).
+    - RAWGraphs. How to Stack Your Unstacked Data (or “Meet the Unpivoter”). 28 Jan. 2022, [https://www.rawgraphs.io/learning/how-to-stack-your-unstacked-data-or-meet-the-unpivoter](https://www.rawgraphs.io/learning/how-to-stack-your-unstacked-data-or-meet-the-unpivoter).
+    - Datawrapper Academy. "How to Prepare Your Data for Datawrapper in Excel or Google Sheets." 13 June 2022, [https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets](https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets).
+
+* EXTs for eager readers:
+    -
 
 ### [Week 16: Mon, Dec 08](plans/week-16) – Project presentations, iteration 4: Presented {#week-16}
 
