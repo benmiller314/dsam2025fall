@@ -383,7 +383,7 @@ UPDATE: the votes are in, and the top two requests are Time Series Data (highest
     - Datawrapper Academy. "How to Prepare Your Data for Datawrapper in Excel or Google Sheets." 13 June 2022, [https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets](https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets).
 
 
-### [Week 16: Mon, Dec 08](plans/week-16) – Project presentations, iteration 4: Presented {#week-16}
+### [Week 16: ~~Mon, Dec 08~~ **Tues, Dec 09, noon-4pm, in room 202**](plans/week-16) – Project presentations, iteration 4: Presented {#week-16}
 
 In preparation for our final class, **prepare** a now-<strong>10-minute</strong> presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following:
 
@@ -392,7 +392,7 @@ In preparation for our final class, **prepare** a now-<strong>10-minute</strong>
 * When you look back at your initial goals, where have you ended up?
 * What have you learned in the process that could apply to future projects?
 
-Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your (okay if it's still-developing) public-facing project, even if it's the same link as last time.
+Post your presentation files (video of you presenting it is optional but welcome) to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your (okay if it's still-developing) public-facing project, even if it's the same link as last time.
 
 NB: _Bring your own dongle_, if you need one.
 
