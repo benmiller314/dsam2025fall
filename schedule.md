@@ -382,8 +382,6 @@ UPDATE: the votes are in, and the top two requests are Time Series Data (highest
     - RAWGraphs. How to Stack Your Unstacked Data (or “Meet the Unpivoter”). 28 Jan. 2022, [https://www.rawgraphs.io/learning/how-to-stack-your-unstacked-data-or-meet-the-unpivoter](https://www.rawgraphs.io/learning/how-to-stack-your-unstacked-data-or-meet-the-unpivoter).
     - Datawrapper Academy. "How to Prepare Your Data for Datawrapper in Excel or Google Sheets." 13 June 2022, [https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets](https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets).
 
-* EXTs for eager readers:
-    -
 
 ### [Week 16: Mon, Dec 08](plans/week-16) – Project presentations, iteration 4: Presented {#week-16}
 
