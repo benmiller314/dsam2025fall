@@ -358,7 +358,7 @@ Otherwise, continue working on your project, and take notes in your [Mindful Pra
 
 
 
-### [Week 15: Mon, Dec 01](plans/week-15) – TBD (the people's choice) {#week-15}
+### [Week 15: Mon, Dec 01](plans/week-15) – the people's choice: [Studio (Time] Series Data) {#week-15}
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
