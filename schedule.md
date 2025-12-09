@@ -339,7 +339,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 <!-- <div class="alert alert-warning">NEW: Based on our conversation in week 11, all videos should be <strong>posted by Friday, Nov 14</strong> so we can all <strong>watch them before class.</strong> This should allow us to dive right into sayback and feedback during next week's class.</div> -->
 
 
-<a id="current"></a>
+
 ### [Week 14: Mon, Nov 25](plans/week-14) – <strong>No Class: Thanksgiving Break</strong> (digesting) {#week-14}
 
 <div class="panel panel-info alert alert-success">
@@ -382,7 +382,7 @@ UPDATE: the votes are in, and the top two requests are Time Series Data (highest
     - RAWGraphs. How to Stack Your Unstacked Data (or “Meet the Unpivoter”). 28 Jan. 2022, [https://www.rawgraphs.io/learning/how-to-stack-your-unstacked-data-or-meet-the-unpivoter](https://www.rawgraphs.io/learning/how-to-stack-your-unstacked-data-or-meet-the-unpivoter).
     - Datawrapper Academy. "How to Prepare Your Data for Datawrapper in Excel or Google Sheets." 13 June 2022, [https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets](https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets).
 
-
+<a id="current"></a>
 ### [Week 16: ~~Mon, Dec 08~~ **Tues, Dec 09, noon-4pm, in room 202**](plans/week-16) – Project presentations, iteration 4: Presented {#week-16}
 
 In preparation for our final class, **prepare** a now-<strong>10-minute</strong> presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following:
