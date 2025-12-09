@@ -20,7 +20,7 @@ I've brought some sweets, some dippable, and some self-packaging options. Hopefu
 ## For those who can't join in person: Zoom
 
 I can't send sustenance through the wire, but your telepresence is still very much desired, if you can make it! Join us at
-[https://pitt.zoom.us/j/99565388052](pitt.zoom.us/j/99565388052), using a password that completes this sentence with a plural noun: **"DSAM students have \_\_\_\_\_\_\_."**
+[pitt.zoom.us/j/99565388052](https://pitt.zoom.us/j/99565388052), using a password that completes this sentence with a plural noun: **"DSAM students have \_\_\_\_\_\_\_."**
 
 (Clue 1: you might need them to present.)
 
