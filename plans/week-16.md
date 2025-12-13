@@ -58,7 +58,7 @@ If you haven't already done so, please **post** the following to the [discussion
     - Note that you should probably also _credit yourself_! (Unless there's a reason that anonymity is essential for safety – and there might be.) If your name and a brief bio do not yet exist on your public-facing site, consider: you use information about site creators to gauge your own trust-levels, right? How will you help others trust your own credentials?
 2. If relevant, a link to a separate **repository** of source materials that you have been shaping or processing to produce your project.
     - NB: Both GitHub or OneDrive offer functionality to share a folder, either publicly or with specific people. If you have a repo and aren't sure how to share it, I can help.
-3. As much of your end-of-semester **reflection** (see above) as you're willing to share publicly.
+3. As much of your end-of-semester **reflection** (as we discussed [last class](week-15#first-half)) as you're willing to share publicly.
 
 <div class="alert alert-warning">
 NB: If you do not feel comfortable sharing the repo or reflection with the public, please submit them instead by email.
